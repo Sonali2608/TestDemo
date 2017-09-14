@@ -1,0 +1,41 @@
+Feature : Test Login scenario
+Scenario : To test the login functionality for Transavia Users
+Given Open Firefox and start the application
+When I enter valid user name and password
+Then I should be able login successfully
+
+===========================================================================================================
+Feature : Test Flight Search scenario
+Scenario : To test Flight Search functionality
+Given Open Firefox and start the application
+When I enter the destinations and to and from dates
+Then I should be able to search the flights for the mentioned dates
+
+===========================================================================================================
+Feature : Test group booking scenario
+Scenario : To test group booking functionality
+Given Open Firefox and start the application
+When I enter the number of adults more then 25 people
+Then I should send the request by filling group form
+
+===========================================================================================================
+Feature : Test online checkin scenario
+Scenario : To test online checkin functionality
+Given Open Firefox and start the application
+When I try to online checkin the flight
+Then I should be allowed to online checkin/login
+But I should fill the booking no, last name and date mandatorily
+
+===========================================================================================================
+Feature : Test past date booking scenario
+Scenario : To test the negative functionality for past dates
+Given Open Firefox and start the application
+When I try to book a ticket in past date
+Then I should not be able to select the past dates
+
+===========================================================================================================
+Feature : Test book a hotel link
+Scenario : To test book a hotel link on Transavia site
+Given Open Firefox and start the application
+When I want to book a hotel
+Then I should be navigated to booking.com page

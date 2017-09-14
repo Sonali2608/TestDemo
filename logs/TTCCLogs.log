@@ -1,0 +1,1477 @@
+2017-09-14 16:27:21,240 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 16:27:21,258 [main] INFO utilities.Log - Total number of Row used return as 2
+2017-09-14 16:27:21,258 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 16:27:24,858 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 16:27:26,096 [main] INFO utilities.Log - Web application http://demo.guru99.com/V4/ launched successfully
+2017-09-14 16:27:28,335 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 17:31:11,219 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 17:31:11,238 [main] INFO utilities.Log - Test executeTestCases Started !
+2017-09-14 17:31:11,238 [main] INFO utilities.Log - Total number of Row used return as 2
+2017-09-14 17:31:11,254 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 17:31:14,870 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 17:31:16,755 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 17:31:18,773 [main] ERROR utilities.Log - Test executeTestCases Failed !
+2017-09-14 17:31:18,889 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 17:33:15,675 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 17:33:15,690 [main] INFO utilities.Log - Test executeTestCases Started !
+2017-09-14 17:33:15,690 [main] INFO utilities.Log - Total number of Row used return as 2
+2017-09-14 17:33:15,690 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 17:33:19,254 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 17:33:21,076 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 17:33:23,079 [main] ERROR utilities.Log - Test executeTestCases Failed !
+2017-09-14 17:33:23,180 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 17:37:01,129 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 17:37:05,774 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 17:37:07,686 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 17:37:09,803 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 17:37:16,281 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 17:39:02,063 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 17:39:06,784 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 17:39:10,317 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 17:39:12,489 [main] INFO utilities.Log - SearchFormTitle exists on page !
+2017-09-14 17:39:12,504 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 17:39:17,572 [main] INFO utilities.Log - From exists on page !
+2017-09-14 17:39:17,625 [main] INFO utilities.Log - Departure exists on page !
+2017-09-14 17:39:17,674 [main] INFO utilities.Log - To exists on page !
+2017-09-14 17:39:17,714 [main] INFO utilities.Log - Destination exists on page !
+2017-09-14 17:39:17,759 [main] INFO utilities.Log - DepartOn exists on page !
+2017-09-14 17:39:17,794 [main] INFO utilities.Log - chkReturnOn exists on page !
+2017-09-14 17:39:17,825 [main] INFO utilities.Log - txtReturnOn exists on page !
+2017-09-14 17:39:17,857 [main] INFO utilities.Log - DateDepartOn exists on page !
+2017-09-14 17:39:17,894 [main] INFO utilities.Log - DateReturnOn exists on page !
+2017-09-14 17:39:17,925 [main] INFO utilities.Log - WhoWillBeTravelling exists on page !
+2017-09-14 17:39:17,975 [main] INFO utilities.Log - Travellers exists on page !
+2017-09-14 17:39:17,994 [main] INFO utilities.Log - chkFlyingBlueMiles exists on page !
+2017-09-14 17:39:18,025 [main] INFO utilities.Log - txtShowBlueMiles exists on page !
+2017-09-14 17:39:18,057 [main] INFO utilities.Log - Plan&Book exists on page !
+2017-09-14 17:39:18,094 [main] INFO utilities.Log - BookFlightLink exists on page !
+2017-09-14 17:39:18,141 [main] INFO utilities.Log - BookHotelLink exists on page !
+2017-09-14 17:39:18,178 [main] INFO utilities.Log - RentCarLink exists on page !
+2017-09-14 17:39:18,210 [main] INFO utilities.Log - ViewOffers exists on page !
+2017-09-14 17:39:18,241 [main] INFO utilities.Log - BookCityTrip exists on page !
+2017-09-14 17:39:18,275 [main] INFO utilities.Log - BookTransfer exists on page !
+2017-09-14 17:39:18,310 [main] INFO utilities.Log - BookParkingSlot exists on page !
+2017-09-14 17:39:18,342 [main] INFO utilities.Log - BookBusinessTrip exists on page !
+2017-09-14 17:39:18,379 [main] INFO utilities.Log - BookFlyingBlueMiles exists on page !
+2017-09-14 17:39:18,410 [main] INFO utilities.Log - ViewDestinations exists on page !
+2017-09-14 17:39:18,442 [main] INFO utilities.Log - AdvanceSerach exists on page !
+2017-09-14 17:39:18,479 [main] INFO utilities.Log - ManageBooking exists on page !
+2017-09-14 17:39:18,510 [main] INFO utilities.Log - OnlineCheckIn exists on page !
+2017-09-14 17:39:18,557 [main] INFO utilities.Log - ViewyourBooking exists on page !
+2017-09-14 17:39:18,579 [main] INFO utilities.Log - Service exists on page !
+2017-09-14 17:39:18,627 [main] INFO utilities.Log - Service&Information exists on page !
+2017-09-14 17:39:18,658 [main] INFO utilities.Log - CustomerService exists on page !
+2017-09-14 17:39:18,695 [main] INFO utilities.Log - FAQs exists on page !
+2017-09-14 17:39:18,739 [main] INFO utilities.Log - Facebook exists on page !
+2017-09-14 17:39:18,768 [main] INFO utilities.Log - Twitter exists on page !
+2017-09-14 17:39:18,798 [main] INFO utilities.Log - Instagram exists on page !
+2017-09-14 17:39:18,830 [main] INFO utilities.Log - Whatsapp exists on page !
+2017-09-14 17:39:18,863 [main] INFO utilities.Log - YouTube exists on page !
+2017-09-14 17:39:18,895 [main] INFO utilities.Log - GooglePlus exists on page !
+2017-09-14 17:39:18,926 [main] INFO utilities.Log - HomeIcon exists on page !
+2017-09-14 17:39:19,597 [main] INFO utilities.Log - Browser closed successfully !
+2017-09-14 17:39:19,663 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 17:41:33,023 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 17:41:36,644 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 17:41:39,113 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 17:41:41,304 [main] INFO utilities.Log - SearchFormTitle exists on page !
+2017-09-14 17:41:41,316 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 17:41:46,459 [main] INFO utilities.Log - From exists on page !
+2017-09-14 17:41:46,509 [main] INFO utilities.Log - Departure exists on page !
+2017-09-14 17:41:46,559 [main] ERROR utilities.Log - To does not exist on page !
+2017-09-14 17:41:46,590 [main] INFO utilities.Log - Destination exists on page !
+2017-09-14 17:41:46,637 [main] INFO utilities.Log - DepartOn exists on page !
+2017-09-14 17:41:46,675 [main] ERROR utilities.Log - chkReturnOn does not exist on page !
+2017-09-14 17:41:46,722 [main] INFO utilities.Log - txtReturnOn exists on page !
+2017-09-14 17:41:46,759 [main] INFO utilities.Log - DateDepartOn exists on page !
+2017-09-14 17:41:46,791 [main] INFO utilities.Log - DateReturnOn exists on page !
+2017-09-14 17:41:46,822 [main] INFO utilities.Log - WhoWillBeTravelling exists on page !
+2017-09-14 17:41:46,859 [main] INFO utilities.Log - Travellers exists on page !
+2017-09-14 17:41:46,891 [main] ERROR utilities.Log - chkFlyingBlueMiles does not exist on page !
+2017-09-14 17:41:46,937 [main] INFO utilities.Log - txtShowBlueMiles exists on page !
+2017-09-14 17:41:46,960 [main] INFO utilities.Log - Plan&Book exists on page !
+2017-09-14 17:41:47,007 [main] ERROR utilities.Log - BookFlightLink does not exist on page !
+2017-09-14 17:41:47,038 [main] ERROR utilities.Log - BookHotelLink does not exist on page !
+2017-09-14 17:41:47,075 [main] ERROR utilities.Log - RentCarLink does not exist on page !
+2017-09-14 17:41:47,106 [main] INFO utilities.Log - ViewOffers exists on page !
+2017-09-14 17:41:47,154 [main] INFO utilities.Log - BookCityTrip exists on page !
+2017-09-14 17:41:47,175 [main] INFO utilities.Log - BookTransfer exists on page !
+2017-09-14 17:41:47,222 [main] ERROR utilities.Log - BookParkingSlot does not exist on page !
+2017-09-14 17:41:47,259 [main] ERROR utilities.Log - BookBusinessTrip does not exist on page !
+2017-09-14 17:41:47,291 [main] ERROR utilities.Log - BookFlyingBlueMiles does not exist on page !
+2017-09-14 17:41:47,322 [main] ERROR utilities.Log - ViewDestinations does not exist on page !
+2017-09-14 17:41:47,359 [main] ERROR utilities.Log - AdvanceSerach does not exist on page !
+2017-09-14 17:41:47,391 [main] INFO utilities.Log - ManageBooking exists on page !
+2017-09-14 17:41:47,438 [main] ERROR utilities.Log - OnlineCheckIn does not exist on page !
+2017-09-14 17:41:47,459 [main] ERROR utilities.Log - ViewyourBooking does not exist on page !
+2017-09-14 17:41:47,491 [main] INFO utilities.Log - Service exists on page !
+2017-09-14 17:41:47,537 [main] ERROR utilities.Log - Service&Information does not exist on page !
+2017-09-14 17:41:47,576 [main] ERROR utilities.Log - CustomerService does not exist on page !
+2017-09-14 17:41:47,622 [main] ERROR utilities.Log - FAQs does not exist on page !
+2017-09-14 17:41:47,638 [main] INFO utilities.Log - Facebook exists on page !
+2017-09-14 17:41:47,676 [main] INFO utilities.Log - Twitter exists on page !
+2017-09-14 17:41:47,707 [main] INFO utilities.Log - Instagram exists on page !
+2017-09-14 17:41:47,738 [main] INFO utilities.Log - Whatsapp exists on page !
+2017-09-14 17:41:47,776 [main] INFO utilities.Log - YouTube exists on page !
+2017-09-14 17:41:47,807 [main] INFO utilities.Log - GooglePlus exists on page !
+2017-09-14 17:41:47,839 [main] ERROR utilities.Log - HomeIcon does not exist on page !
+2017-09-14 17:41:48,477 [main] INFO utilities.Log - Browser closed successfully !
+2017-09-14 17:41:48,539 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 17:55:08,229 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 17:55:11,887 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 17:55:13,712 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 17:55:15,851 [main] INFO utilities.Log - SearchFormTitle exists on page !
+2017-09-14 17:55:15,851 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 17:55:20,972 [main] INFO utilities.Log - From exists on page !
+2017-09-14 17:55:21,026 [main] INFO utilities.Log - Departure exists on page !
+2017-09-14 17:55:21,073 [main] ERROR utilities.Log - To does not exist on page !
+2017-09-14 17:55:21,104 [main] INFO utilities.Log - Destination exists on page !
+2017-09-14 17:55:21,172 [main] INFO utilities.Log - DepartOn exists on page !
+2017-09-14 17:55:21,221 [main] ERROR utilities.Log - chkReturnOn does not exist on page !
+2017-09-14 17:55:21,241 [main] INFO utilities.Log - txtReturnOn exists on page !
+2017-09-14 17:55:21,288 [main] INFO utilities.Log - DateDepartOn exists on page !
+2017-09-14 17:55:21,326 [main] INFO utilities.Log - DateReturnOn exists on page !
+2017-09-14 17:55:21,357 [main] INFO utilities.Log - WhoWillBeTravelling exists on page !
+2017-09-14 17:55:21,404 [main] INFO utilities.Log - Travellers exists on page !
+2017-09-14 17:55:21,426 [main] ERROR utilities.Log - chkFlyingBlueMiles does not exist on page !
+2017-09-14 17:55:21,473 [main] INFO utilities.Log - txtShowBlueMiles exists on page !
+2017-09-14 17:55:21,849 [main] INFO utilities.Log - Clicked on Plan&Book successfully !
+2017-09-14 17:55:22,168 [main] INFO utilities.Log - Plan&Book exists on page !
+2017-09-14 17:55:22,222 [main] INFO utilities.Log - BookFlightLink exists on page !
+2017-09-14 17:55:22,273 [main] INFO utilities.Log - BookHotelLink exists on page !
+2017-09-14 17:55:22,361 [main] INFO utilities.Log - RentCarLink exists on page !
+2017-09-14 17:55:22,407 [main] INFO utilities.Log - ViewOffers exists on page !
+2017-09-14 17:55:22,582 [main] INFO utilities.Log - BookCityTrip exists on page !
+2017-09-14 17:55:22,622 [main] INFO utilities.Log - BookTransfer exists on page !
+2017-09-14 17:55:22,668 [main] INFO utilities.Log - BookParkingSlot exists on page !
+2017-09-14 17:55:22,721 [main] INFO utilities.Log - BookBusinessTrip exists on page !
+2017-09-14 17:55:22,753 [main] INFO utilities.Log - BookFlyingBlueMiles exists on page !
+2017-09-14 17:55:22,823 [main] INFO utilities.Log - ViewDestinations exists on page !
+2017-09-14 17:55:22,866 [main] INFO utilities.Log - AdvanceSerach exists on page !
+2017-09-14 17:55:23,135 [main] INFO utilities.Log - Clicked on ManageBooking successfully !
+2017-09-14 17:55:23,185 [main] INFO utilities.Log - ManageBooking exists on page !
+2017-09-14 17:55:23,253 [main] INFO utilities.Log - OnlineCheckIn exists on page !
+2017-09-14 17:55:23,317 [main] INFO utilities.Log - ViewyourBooking exists on page !
+2017-09-14 17:55:23,353 [main] INFO utilities.Log - Service exists on page !
+2017-09-14 17:55:23,391 [main] ERROR utilities.Log - Service&Information does not exist on page !
+2017-09-14 17:55:23,443 [main] ERROR utilities.Log - CustomerService does not exist on page !
+2017-09-14 17:55:23,508 [main] ERROR utilities.Log - FAQs does not exist on page !
+2017-09-14 17:55:23,571 [main] INFO utilities.Log - Facebook exists on page !
+2017-09-14 17:55:23,639 [main] INFO utilities.Log - Twitter exists on page !
+2017-09-14 17:55:23,703 [main] INFO utilities.Log - Instagram exists on page !
+2017-09-14 17:55:23,739 [main] INFO utilities.Log - Whatsapp exists on page !
+2017-09-14 17:55:23,776 [main] INFO utilities.Log - YouTube exists on page !
+2017-09-14 17:55:23,810 [main] INFO utilities.Log - GooglePlus exists on page !
+2017-09-14 17:55:23,847 [main] ERROR utilities.Log - HomeIcon does not exist on page !
+2017-09-14 17:55:24,427 [main] INFO utilities.Log - Browser closed successfully !
+2017-09-14 17:57:49,768 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 17:57:53,420 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 17:57:59,725 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 17:58:01,845 [main] INFO utilities.Log - SearchFormTitle exists on page !
+2017-09-14 17:58:01,860 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 17:58:07,018 [main] INFO utilities.Log - From exists on page !
+2017-09-14 17:58:07,053 [main] INFO utilities.Log - Departure exists on page !
+2017-09-14 17:58:07,102 [main] ERROR utilities.Log - To does not exist on page !
+2017-09-14 17:58:07,133 [main] INFO utilities.Log - Destination exists on page !
+2017-09-14 17:58:07,171 [main] INFO utilities.Log - DepartOn exists on page !
+2017-09-14 17:58:07,219 [main] ERROR utilities.Log - chkReturnOn does not exist on page !
+2017-09-14 17:58:07,243 [main] INFO utilities.Log - txtReturnOn exists on page !
+2017-09-14 17:58:07,271 [main] INFO utilities.Log - DateDepartOn exists on page !
+2017-09-14 17:58:07,318 [main] INFO utilities.Log - DateReturnOn exists on page !
+2017-09-14 17:58:07,349 [main] INFO utilities.Log - WhoWillBeTravelling exists on page !
+2017-09-14 17:58:07,387 [main] INFO utilities.Log - Travellers exists on page !
+2017-09-14 17:58:07,418 [main] ERROR utilities.Log - chkFlyingBlueMiles does not exist on page !
+2017-09-14 17:58:07,449 [main] INFO utilities.Log - txtShowBlueMiles exists on page !
+2017-09-14 17:58:07,885 [main] INFO utilities.Log - Clicked on Plan&Book successfully !
+2017-09-14 17:58:08,174 [main] INFO utilities.Log - Plan&Book exists on page !
+2017-09-14 17:58:08,269 [main] INFO utilities.Log - BookFlightLink exists on page !
+2017-09-14 17:58:08,452 [main] INFO utilities.Log - BookHotelLink exists on page !
+2017-09-14 17:58:08,531 [main] INFO utilities.Log - RentCarLink exists on page !
+2017-09-14 17:58:08,647 [main] INFO utilities.Log - ViewOffers exists on page !
+2017-09-14 17:58:08,727 [main] INFO utilities.Log - BookCityTrip exists on page !
+2017-09-14 17:58:08,765 [main] INFO utilities.Log - BookTransfer exists on page !
+2017-09-14 17:58:08,807 [main] INFO utilities.Log - BookParkingSlot exists on page !
+2017-09-14 17:58:08,859 [main] INFO utilities.Log - BookBusinessTrip exists on page !
+2017-09-14 17:58:08,903 [main] INFO utilities.Log - BookFlyingBlueMiles exists on page !
+2017-09-14 17:58:08,946 [main] INFO utilities.Log - ViewDestinations exists on page !
+2017-09-14 17:58:08,979 [main] INFO utilities.Log - AdvanceSerach exists on page !
+2017-09-14 17:58:09,251 [main] INFO utilities.Log - Clicked on ManageBooking successfully !
+2017-09-14 17:58:09,317 [main] INFO utilities.Log - ManageBooking exists on page !
+2017-09-14 17:58:09,378 [main] INFO utilities.Log - OnlineCheckIn exists on page !
+2017-09-14 17:58:09,418 [main] INFO utilities.Log - ViewyourBooking exists on page !
+2017-09-14 17:58:09,689 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 17:58:09,735 [main] INFO utilities.Log - Service exists on page !
+2017-09-14 17:58:09,773 [main] INFO utilities.Log - Service&Information exists on page !
+2017-09-14 17:58:09,826 [main] INFO utilities.Log - CustomerService exists on page !
+2017-09-14 17:58:09,865 [main] INFO utilities.Log - FAQs exists on page !
+2017-09-14 17:58:10,098 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 17:58:10,133 [main] INFO utilities.Log - Facebook exists on page !
+2017-09-14 17:58:10,165 [main] INFO utilities.Log - Twitter exists on page !
+2017-09-14 17:58:10,198 [main] INFO utilities.Log - Instagram exists on page !
+2017-09-14 17:58:10,230 [main] INFO utilities.Log - Whatsapp exists on page !
+2017-09-14 17:58:10,267 [main] INFO utilities.Log - YouTube exists on page !
+2017-09-14 17:58:10,300 [main] INFO utilities.Log - GooglePlus exists on page !
+2017-09-14 17:58:10,333 [main] ERROR utilities.Log - HomeIcon does not exist on page !
+2017-09-14 17:58:10,902 [main] INFO utilities.Log - Browser closed successfully !
+2017-09-14 17:59:08,911 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 17:59:12,487 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 17:59:14,721 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 17:59:16,808 [main] INFO utilities.Log - SearchFormTitle exists on page !
+2017-09-14 17:59:16,817 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 17:59:21,906 [main] INFO utilities.Log - From exists on page !
+2017-09-14 17:59:21,967 [main] INFO utilities.Log - Departure exists on page !
+2017-09-14 17:59:21,999 [main] ERROR utilities.Log - To does not exist on page !
+2017-09-14 17:59:22,060 [main] INFO utilities.Log - Destination exists on page !
+2017-09-14 17:59:22,107 [main] INFO utilities.Log - DepartOn exists on page !
+2017-09-14 17:59:22,144 [main] ERROR utilities.Log - chkReturnOn does not exist on page !
+2017-09-14 17:59:22,176 [main] INFO utilities.Log - txtReturnOn exists on page !
+2017-09-14 17:59:22,207 [main] INFO utilities.Log - DateDepartOn exists on page !
+2017-09-14 17:59:22,245 [main] INFO utilities.Log - DateReturnOn exists on page !
+2017-09-14 17:59:22,276 [main] INFO utilities.Log - WhoWillBeTravelling exists on page !
+2017-09-14 17:59:22,324 [main] INFO utilities.Log - Travellers exists on page !
+2017-09-14 17:59:22,345 [main] ERROR utilities.Log - chkFlyingBlueMiles does not exist on page !
+2017-09-14 17:59:22,382 [main] INFO utilities.Log - txtShowBlueMiles exists on page !
+2017-09-14 17:59:22,827 [main] INFO utilities.Log - Clicked on Plan&Book successfully !
+2017-09-14 17:59:23,093 [main] INFO utilities.Log - Plan&Book exists on page !
+2017-09-14 17:59:23,177 [main] INFO utilities.Log - BookFlightLink exists on page !
+2017-09-14 17:59:23,262 [main] INFO utilities.Log - BookHotelLink exists on page !
+2017-09-14 17:59:23,462 [main] INFO utilities.Log - RentCarLink exists on page !
+2017-09-14 17:59:23,509 [main] INFO utilities.Log - ViewOffers exists on page !
+2017-09-14 17:59:23,594 [main] INFO utilities.Log - BookCityTrip exists on page !
+2017-09-14 17:59:23,647 [main] INFO utilities.Log - BookTransfer exists on page !
+2017-09-14 17:59:23,694 [main] INFO utilities.Log - BookParkingSlot exists on page !
+2017-09-14 17:59:23,731 [main] INFO utilities.Log - BookBusinessTrip exists on page !
+2017-09-14 17:59:23,778 [main] INFO utilities.Log - BookFlyingBlueMiles exists on page !
+2017-09-14 17:59:23,809 [main] INFO utilities.Log - ViewDestinations exists on page !
+2017-09-14 17:59:23,832 [main] INFO utilities.Log - AdvanceSerach exists on page !
+2017-09-14 17:59:24,129 [main] INFO utilities.Log - Clicked on ManageBooking successfully !
+2017-09-14 17:59:24,163 [main] INFO utilities.Log - ManageBooking exists on page !
+2017-09-14 17:59:24,225 [main] INFO utilities.Log - OnlineCheckIn exists on page !
+2017-09-14 17:59:24,263 [main] INFO utilities.Log - ViewyourBooking exists on page !
+2017-09-14 17:59:24,563 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 17:59:24,609 [main] INFO utilities.Log - Service exists on page !
+2017-09-14 17:59:24,663 [main] INFO utilities.Log - Service&Information exists on page !
+2017-09-14 17:59:24,732 [main] INFO utilities.Log - CustomerService exists on page !
+2017-09-14 17:59:24,763 [main] INFO utilities.Log - FAQs exists on page !
+2017-09-14 17:59:25,011 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 17:59:25,079 [main] INFO utilities.Log - Facebook exists on page !
+2017-09-14 17:59:25,111 [main] INFO utilities.Log - Twitter exists on page !
+2017-09-14 17:59:25,148 [main] INFO utilities.Log - Instagram exists on page !
+2017-09-14 17:59:25,193 [main] INFO utilities.Log - Whatsapp exists on page !
+2017-09-14 17:59:25,234 [main] INFO utilities.Log - YouTube exists on page !
+2017-09-14 17:59:25,270 [main] INFO utilities.Log - GooglePlus exists on page !
+2017-09-14 17:59:25,301 [main] ERROR utilities.Log - HomeIcon does not exist on page !
+2017-09-14 17:59:25,928 [main] INFO utilities.Log - Browser closed successfully !
+2017-09-14 17:59:25,980 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 18:38:07,275 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 18:38:07,288 [main] INFO utilities.Log - Total number of Row used return as 2
+2017-09-14 18:38:07,288 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 18:38:10,795 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 18:38:12,534 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 18:38:14,604 [main] INFO utilities.Log - SearchFormTitle exists on page !
+2017-09-14 18:38:14,614 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 18:38:19,689 [main] INFO utilities.Log - From exists on page !
+2017-09-14 18:38:19,733 [main] INFO utilities.Log - Departure exists on page !
+2017-09-14 18:38:19,774 [main] ERROR utilities.Log - To does not exist on page !
+2017-09-14 18:38:19,821 [main] INFO utilities.Log - Destination exists on page !
+2017-09-14 18:38:19,858 [main] INFO utilities.Log - DepartOn exists on page !
+2017-09-14 18:38:19,899 [main] ERROR utilities.Log - chkReturnOn does not exist on page !
+2017-09-14 18:38:19,921 [main] INFO utilities.Log - txtReturnOn exists on page !
+2017-09-14 18:38:19,958 [main] INFO utilities.Log - DateDepartOn exists on page !
+2017-09-14 18:38:20,005 [main] INFO utilities.Log - DateReturnOn exists on page !
+2017-09-14 18:38:20,054 [main] INFO utilities.Log - WhoWillBeTravelling exists on page !
+2017-09-14 18:38:20,090 [main] INFO utilities.Log - Travellers exists on page !
+2017-09-14 18:38:20,121 [main] ERROR utilities.Log - chkFlyingBlueMiles does not exist on page !
+2017-09-14 18:38:20,156 [main] INFO utilities.Log - txtShowBlueMiles exists on page !
+2017-09-14 18:38:20,520 [main] INFO utilities.Log - Clicked on Plan&Book successfully !
+2017-09-14 18:38:20,586 [main] INFO utilities.Log - Plan&Book exists on page !
+2017-09-14 18:38:20,862 [main] INFO utilities.Log - BookFlightLink exists on page !
+2017-09-14 18:38:20,935 [main] INFO utilities.Log - BookHotelLink exists on page !
+2017-09-14 18:38:20,993 [main] INFO utilities.Log - RentCarLink exists on page !
+2017-09-14 18:38:21,056 [main] INFO utilities.Log - ViewOffers exists on page !
+2017-09-14 18:38:21,089 [main] INFO utilities.Log - BookCityTrip exists on page !
+2017-09-14 18:38:21,126 [main] INFO utilities.Log - BookTransfer exists on page !
+2017-09-14 18:38:21,239 [main] INFO utilities.Log - BookParkingSlot exists on page !
+2017-09-14 18:38:21,288 [main] INFO utilities.Log - BookBusinessTrip exists on page !
+2017-09-14 18:38:21,324 [main] INFO utilities.Log - BookFlyingBlueMiles exists on page !
+2017-09-14 18:38:21,358 [main] INFO utilities.Log - ViewDestinations exists on page !
+2017-09-14 18:38:21,396 [main] INFO utilities.Log - AdvanceSerach exists on page !
+2017-09-14 18:38:21,814 [main] INFO utilities.Log - Clicked on ManageBooking successfully !
+2017-09-14 18:38:21,852 [main] INFO utilities.Log - ManageBooking exists on page !
+2017-09-14 18:38:21,891 [main] INFO utilities.Log - OnlineCheckIn exists on page !
+2017-09-14 18:38:21,933 [main] INFO utilities.Log - ViewyourBooking exists on page !
+2017-09-14 18:38:22,208 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 18:38:22,342 [main] INFO utilities.Log - Service exists on page !
+2017-09-14 18:38:22,413 [main] INFO utilities.Log - Service&Information exists on page !
+2017-09-14 18:38:22,452 [main] INFO utilities.Log - CustomerService exists on page !
+2017-09-14 18:38:22,486 [main] INFO utilities.Log - FAQs exists on page !
+2017-09-14 18:38:22,736 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 18:38:22,777 [main] INFO utilities.Log - Facebook exists on page !
+2017-09-14 18:38:22,825 [main] INFO utilities.Log - Twitter exists on page !
+2017-09-14 18:38:22,876 [main] INFO utilities.Log - Instagram exists on page !
+2017-09-14 18:38:22,927 [main] INFO utilities.Log - Whatsapp exists on page !
+2017-09-14 18:38:22,966 [main] INFO utilities.Log - YouTube exists on page !
+2017-09-14 18:38:23,004 [main] INFO utilities.Log - GooglePlus exists on page !
+2017-09-14 18:38:23,034 [main] ERROR utilities.Log - HomeIcon does not exist on page !
+2017-09-14 18:38:23,035 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 18:38:25,919 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 18:38:27,552 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 18:38:29,839 [main] INFO utilities.Log - Value : Amsterdam (Schiphol), Netherlands entered successfully in : Departure
+2017-09-14 18:38:30,070 [main] INFO utilities.Log - Value : Alicante, Spain entered successfully in : Destination
+2017-09-14 18:38:30,238 [main] INFO utilities.Log - Value : 21 Sep 2017 entered successfully in : DateDepartOn
+2017-09-14 18:38:30,523 [main] INFO utilities.Log - Value : 29 Sep 2017 entered successfully in : DateReturnOn
+2017-09-14 18:38:31,271 [main] INFO utilities.Log - Browser closed successfully !
+2017-09-14 18:38:31,339 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 18:39:38,064 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 18:39:38,068 [main] INFO utilities.Log - Total number of Row used return as 2
+2017-09-14 18:39:38,068 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 18:39:41,644 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 18:39:43,265 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 18:39:45,368 [main] INFO utilities.Log - SearchFormTitle exists on page !
+2017-09-14 18:39:45,368 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 18:39:50,441 [main] INFO utilities.Log - From exists on page !
+2017-09-14 18:39:50,479 [main] INFO utilities.Log - Departure exists on page !
+2017-09-14 18:39:50,526 [main] ERROR utilities.Log - To does not exist on page !
+2017-09-14 18:39:50,575 [main] INFO utilities.Log - Destination exists on page !
+2017-09-14 18:39:50,610 [main] INFO utilities.Log - DepartOn exists on page !
+2017-09-14 18:39:50,642 [main] ERROR utilities.Log - chkReturnOn does not exist on page !
+2017-09-14 18:39:50,695 [main] INFO utilities.Log - txtReturnOn exists on page !
+2017-09-14 18:39:50,726 [main] INFO utilities.Log - DateDepartOn exists on page !
+2017-09-14 18:39:50,758 [main] INFO utilities.Log - DateReturnOn exists on page !
+2017-09-14 18:39:50,796 [main] INFO utilities.Log - WhoWillBeTravelling exists on page !
+2017-09-14 18:39:50,827 [main] INFO utilities.Log - Travellers exists on page !
+2017-09-14 18:39:50,881 [main] ERROR utilities.Log - chkFlyingBlueMiles does not exist on page !
+2017-09-14 18:39:50,919 [main] INFO utilities.Log - txtShowBlueMiles exists on page !
+2017-09-14 18:39:51,362 [main] INFO utilities.Log - Clicked on Plan&Book successfully !
+2017-09-14 18:39:51,649 [main] INFO utilities.Log - Plan&Book exists on page !
+2017-09-14 18:39:51,711 [main] INFO utilities.Log - BookFlightLink exists on page !
+2017-09-14 18:39:51,834 [main] INFO utilities.Log - BookHotelLink exists on page !
+2017-09-14 18:39:52,045 [main] INFO utilities.Log - RentCarLink exists on page !
+2017-09-14 18:39:52,129 [main] INFO utilities.Log - ViewOffers exists on page !
+2017-09-14 18:39:52,166 [main] INFO utilities.Log - BookCityTrip exists on page !
+2017-09-14 18:39:52,207 [main] INFO utilities.Log - BookTransfer exists on page !
+2017-09-14 18:39:52,248 [main] INFO utilities.Log - BookParkingSlot exists on page !
+2017-09-14 18:39:52,297 [main] INFO utilities.Log - BookBusinessTrip exists on page !
+2017-09-14 18:39:52,334 [main] INFO utilities.Log - BookFlyingBlueMiles exists on page !
+2017-09-14 18:39:52,373 [main] INFO utilities.Log - ViewDestinations exists on page !
+2017-09-14 18:39:52,410 [main] INFO utilities.Log - AdvanceSerach exists on page !
+2017-09-14 18:39:52,691 [main] INFO utilities.Log - Clicked on ManageBooking successfully !
+2017-09-14 18:39:52,739 [main] INFO utilities.Log - ManageBooking exists on page !
+2017-09-14 18:39:52,797 [main] INFO utilities.Log - OnlineCheckIn exists on page !
+2017-09-14 18:39:52,851 [main] INFO utilities.Log - ViewyourBooking exists on page !
+2017-09-14 18:39:53,130 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 18:39:53,179 [main] INFO utilities.Log - Service exists on page !
+2017-09-14 18:39:53,230 [main] INFO utilities.Log - Service&Information exists on page !
+2017-09-14 18:39:53,289 [main] INFO utilities.Log - CustomerService exists on page !
+2017-09-14 18:39:53,322 [main] INFO utilities.Log - FAQs exists on page !
+2017-09-14 18:39:53,567 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 18:39:53,611 [main] INFO utilities.Log - Facebook exists on page !
+2017-09-14 18:39:53,649 [main] INFO utilities.Log - Twitter exists on page !
+2017-09-14 18:39:53,683 [main] INFO utilities.Log - Instagram exists on page !
+2017-09-14 18:39:53,716 [main] INFO utilities.Log - Whatsapp exists on page !
+2017-09-14 18:39:53,755 [main] INFO utilities.Log - YouTube exists on page !
+2017-09-14 18:39:53,792 [main] INFO utilities.Log - GooglePlus exists on page !
+2017-09-14 18:39:53,824 [main] ERROR utilities.Log - HomeIcon does not exist on page !
+2017-09-14 18:39:53,824 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 18:39:56,686 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 18:39:58,453 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 18:40:00,712 [main] INFO utilities.Log - Value : Amsterdam (Schiphol), Netherlands entered successfully in : Departure
+2017-09-14 18:40:00,896 [main] INFO utilities.Log - Value : Alicante, Spain entered successfully in : Destination
+2017-09-14 18:40:01,074 [main] INFO utilities.Log - Value : 21 Sep 2017 entered successfully in : DateDepartOn
+2017-09-14 18:40:01,327 [main] INFO utilities.Log - Value : 29 Sep 2017 entered successfully in : DateReturnOn
+2017-09-14 18:40:01,443 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 18:41:44,725 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 18:41:44,736 [main] INFO utilities.Log - Total number of Row used return as 2
+2017-09-14 18:41:44,736 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 18:41:48,311 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 18:41:50,976 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 18:41:53,048 [main] INFO utilities.Log - SearchFormTitle exists on page !
+2017-09-14 18:41:53,055 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 18:41:56,097 [main] INFO utilities.Log - From exists on page !
+2017-09-14 18:41:56,137 [main] INFO utilities.Log - Departure exists on page !
+2017-09-14 18:41:56,184 [main] ERROR utilities.Log - To does not exist on page !
+2017-09-14 18:41:56,222 [main] INFO utilities.Log - Destination exists on page !
+2017-09-14 18:41:56,253 [main] INFO utilities.Log - DepartOn exists on page !
+2017-09-14 18:41:56,300 [main] ERROR utilities.Log - chkReturnOn does not exist on page !
+2017-09-14 18:41:56,350 [main] INFO utilities.Log - txtReturnOn exists on page !
+2017-09-14 18:41:56,383 [main] INFO utilities.Log - DateDepartOn exists on page !
+2017-09-14 18:41:56,423 [main] INFO utilities.Log - DateReturnOn exists on page !
+2017-09-14 18:41:56,454 [main] INFO utilities.Log - WhoWillBeTravelling exists on page !
+2017-09-14 18:41:56,485 [main] INFO utilities.Log - Travellers exists on page !
+2017-09-14 18:41:56,523 [main] ERROR utilities.Log - chkFlyingBlueMiles does not exist on page !
+2017-09-14 18:41:56,554 [main] INFO utilities.Log - txtShowBlueMiles exists on page !
+2017-09-14 18:41:57,088 [main] INFO utilities.Log - Clicked on Plan&Book successfully !
+2017-09-14 18:41:57,216 [main] INFO utilities.Log - Plan&Book exists on page !
+2017-09-14 18:41:57,254 [main] INFO utilities.Log - BookFlightLink exists on page !
+2017-09-14 18:41:57,309 [main] INFO utilities.Log - BookHotelLink exists on page !
+2017-09-14 18:41:57,367 [main] INFO utilities.Log - RentCarLink exists on page !
+2017-09-14 18:41:57,493 [main] INFO utilities.Log - ViewOffers exists on page !
+2017-09-14 18:41:57,754 [main] INFO utilities.Log - BookCityTrip exists on page !
+2017-09-14 18:41:57,800 [main] INFO utilities.Log - BookTransfer exists on page !
+2017-09-14 18:41:57,864 [main] INFO utilities.Log - BookParkingSlot exists on page !
+2017-09-14 18:41:57,906 [main] INFO utilities.Log - BookBusinessTrip exists on page !
+2017-09-14 18:41:57,945 [main] INFO utilities.Log - BookFlyingBlueMiles exists on page !
+2017-09-14 18:41:57,993 [main] INFO utilities.Log - ViewDestinations exists on page !
+2017-09-14 18:41:58,040 [main] INFO utilities.Log - AdvanceSerach exists on page !
+2017-09-14 18:41:58,313 [main] INFO utilities.Log - Clicked on ManageBooking successfully !
+2017-09-14 18:41:58,350 [main] INFO utilities.Log - ManageBooking exists on page !
+2017-09-14 18:41:58,389 [main] INFO utilities.Log - OnlineCheckIn exists on page !
+2017-09-14 18:41:58,436 [main] INFO utilities.Log - ViewyourBooking exists on page !
+2017-09-14 18:41:58,710 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 18:41:58,750 [main] INFO utilities.Log - Service exists on page !
+2017-09-14 18:41:58,796 [main] INFO utilities.Log - Service&Information exists on page !
+2017-09-14 18:41:58,851 [main] INFO utilities.Log - CustomerService exists on page !
+2017-09-14 18:41:58,890 [main] INFO utilities.Log - FAQs exists on page !
+2017-09-14 18:41:59,120 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 18:41:59,149 [main] INFO utilities.Log - Facebook exists on page !
+2017-09-14 18:41:59,183 [main] INFO utilities.Log - Twitter exists on page !
+2017-09-14 18:41:59,215 [main] INFO utilities.Log - Instagram exists on page !
+2017-09-14 18:41:59,248 [main] INFO utilities.Log - Whatsapp exists on page !
+2017-09-14 18:41:59,288 [main] INFO utilities.Log - YouTube exists on page !
+2017-09-14 18:41:59,322 [main] INFO utilities.Log - GooglePlus exists on page !
+2017-09-14 18:41:59,354 [main] ERROR utilities.Log - HomeIcon does not exist on page !
+2017-09-14 18:41:59,355 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 18:42:02,231 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 18:42:03,863 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 18:42:06,137 [main] INFO utilities.Log - Value : Amsterdam (Schiphol), Netherlands entered successfully in : Departure
+2017-09-14 18:42:06,337 [main] INFO utilities.Log - Value : Alicante, Spain entered successfully in : Destination
+2017-09-14 18:42:08,535 [main] INFO utilities.Log - Value : 21 Sep 2017 entered successfully in : DateDepartOn
+2017-09-14 18:42:10,676 [main] INFO utilities.Log - Value : 29 Sep 2017 entered successfully in : DateReturnOn
+2017-09-14 18:42:10,768 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 18:43:54,391 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 18:43:54,401 [main] INFO utilities.Log - Total number of Row used return as 2
+2017-09-14 18:43:54,407 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 18:43:58,043 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 18:43:59,843 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 18:44:01,930 [main] INFO utilities.Log - SearchFormTitle exists on page !
+2017-09-14 18:44:01,946 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 18:44:04,988 [main] INFO utilities.Log - From exists on page !
+2017-09-14 18:44:05,032 [main] INFO utilities.Log - Departure exists on page !
+2017-09-14 18:44:05,085 [main] ERROR utilities.Log - To does not exist on page !
+2017-09-14 18:44:05,119 [main] INFO utilities.Log - Destination exists on page !
+2017-09-14 18:44:05,183 [main] INFO utilities.Log - DepartOn exists on page !
+2017-09-14 18:44:05,219 [main] ERROR utilities.Log - chkReturnOn does not exist on page !
+2017-09-14 18:44:05,251 [main] INFO utilities.Log - txtReturnOn exists on page !
+2017-09-14 18:44:05,288 [main] INFO utilities.Log - DateDepartOn exists on page !
+2017-09-14 18:44:05,335 [main] INFO utilities.Log - DateReturnOn exists on page !
+2017-09-14 18:44:05,389 [main] INFO utilities.Log - WhoWillBeTravelling exists on page !
+2017-09-14 18:44:05,420 [main] INFO utilities.Log - Travellers exists on page !
+2017-09-14 18:44:05,451 [main] ERROR utilities.Log - chkFlyingBlueMiles does not exist on page !
+2017-09-14 18:44:05,489 [main] INFO utilities.Log - txtShowBlueMiles exists on page !
+2017-09-14 18:44:05,952 [main] INFO utilities.Log - Clicked on Plan&Book successfully !
+2017-09-14 18:44:06,121 [main] INFO utilities.Log - Plan&Book exists on page !
+2017-09-14 18:44:06,283 [main] INFO utilities.Log - BookFlightLink exists on page !
+2017-09-14 18:44:06,321 [main] INFO utilities.Log - BookHotelLink exists on page !
+2017-09-14 18:44:06,383 [main] INFO utilities.Log - RentCarLink exists on page !
+2017-09-14 18:44:06,452 [main] INFO utilities.Log - ViewOffers exists on page !
+2017-09-14 18:44:06,521 [main] INFO utilities.Log - BookCityTrip exists on page !
+2017-09-14 18:44:06,568 [main] INFO utilities.Log - BookTransfer exists on page !
+2017-09-14 18:44:06,666 [main] INFO utilities.Log - BookParkingSlot exists on page !
+2017-09-14 18:44:06,821 [main] INFO utilities.Log - BookBusinessTrip exists on page !
+2017-09-14 18:44:06,940 [main] INFO utilities.Log - BookFlyingBlueMiles exists on page !
+2017-09-14 18:44:07,022 [main] INFO utilities.Log - ViewDestinations exists on page !
+2017-09-14 18:44:07,057 [main] INFO utilities.Log - AdvanceSerach exists on page !
+2017-09-14 18:44:07,340 [main] INFO utilities.Log - Clicked on ManageBooking successfully !
+2017-09-14 18:44:07,387 [main] INFO utilities.Log - ManageBooking exists on page !
+2017-09-14 18:44:07,449 [main] INFO utilities.Log - OnlineCheckIn exists on page !
+2017-09-14 18:44:07,505 [main] INFO utilities.Log - ViewyourBooking exists on page !
+2017-09-14 18:44:07,781 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 18:44:07,835 [main] INFO utilities.Log - Service exists on page !
+2017-09-14 18:44:07,881 [main] INFO utilities.Log - Service&Information exists on page !
+2017-09-14 18:44:07,943 [main] INFO utilities.Log - CustomerService exists on page !
+2017-09-14 18:44:07,983 [main] INFO utilities.Log - FAQs exists on page !
+2017-09-14 18:44:08,213 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 18:44:08,245 [main] INFO utilities.Log - Facebook exists on page !
+2017-09-14 18:44:08,283 [main] INFO utilities.Log - Twitter exists on page !
+2017-09-14 18:44:08,322 [main] INFO utilities.Log - Instagram exists on page !
+2017-09-14 18:44:08,356 [main] INFO utilities.Log - Whatsapp exists on page !
+2017-09-14 18:44:08,402 [main] INFO utilities.Log - YouTube exists on page !
+2017-09-14 18:44:08,435 [main] INFO utilities.Log - GooglePlus exists on page !
+2017-09-14 18:44:08,472 [main] ERROR utilities.Log - HomeIcon does not exist on page !
+2017-09-14 18:44:08,473 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 18:44:12,459 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 18:44:14,598 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 18:44:16,854 [main] INFO utilities.Log - Value : Amsterdam (Schiphol), Netherlands entered successfully in : Departure
+2017-09-14 18:44:17,038 [main] INFO utilities.Log - Value : Alicante, Spain entered successfully in : Destination
+2017-09-14 18:44:19,244 [main] INFO utilities.Log - Value :  entered successfully in : DateDepartOn
+2017-09-14 18:44:19,372 [main] INFO utilities.Log - Value : 21 Sep 2017 entered successfully in : DateDepartOn
+2017-09-14 18:44:21,444 [main] INFO utilities.Log - Value :  entered successfully in : DateReturnOn
+2017-09-14 18:44:21,494 [main] INFO utilities.Log - Value : 29 Sep 2017 entered successfully in : DateReturnOn
+2017-09-14 18:44:21,610 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 18:45:29,908 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 18:45:29,925 [main] INFO utilities.Log - Total number of Row used return as 2
+2017-09-14 18:45:29,925 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 18:45:33,556 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 18:45:35,245 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 18:45:37,332 [main] INFO utilities.Log - SearchFormTitle exists on page !
+2017-09-14 18:45:37,348 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 18:45:40,401 [main] INFO utilities.Log - From exists on page !
+2017-09-14 18:45:40,455 [main] INFO utilities.Log - Departure exists on page !
+2017-09-14 18:45:40,486 [main] ERROR utilities.Log - To does not exist on page !
+2017-09-14 18:45:40,540 [main] INFO utilities.Log - Destination exists on page !
+2017-09-14 18:45:40,587 [main] INFO utilities.Log - DepartOn exists on page !
+2017-09-14 18:45:40,624 [main] ERROR utilities.Log - chkReturnOn does not exist on page !
+2017-09-14 18:45:40,671 [main] INFO utilities.Log - txtReturnOn exists on page !
+2017-09-14 18:45:40,703 [main] INFO utilities.Log - DateDepartOn exists on page !
+2017-09-14 18:45:40,740 [main] INFO utilities.Log - DateReturnOn exists on page !
+2017-09-14 18:45:40,787 [main] INFO utilities.Log - WhoWillBeTravelling exists on page !
+2017-09-14 18:45:40,825 [main] INFO utilities.Log - Travellers exists on page !
+2017-09-14 18:45:40,856 [main] ERROR utilities.Log - chkFlyingBlueMiles does not exist on page !
+2017-09-14 18:45:40,888 [main] INFO utilities.Log - txtShowBlueMiles exists on page !
+2017-09-14 18:45:41,434 [main] INFO utilities.Log - Clicked on Plan&Book successfully !
+2017-09-14 18:45:41,627 [main] INFO utilities.Log - Plan&Book exists on page !
+2017-09-14 18:45:41,769 [main] INFO utilities.Log - BookFlightLink exists on page !
+2017-09-14 18:45:41,968 [main] INFO utilities.Log - BookHotelLink exists on page !
+2017-09-14 18:45:42,082 [main] INFO utilities.Log - RentCarLink exists on page !
+2017-09-14 18:45:42,121 [main] INFO utilities.Log - ViewOffers exists on page !
+2017-09-14 18:45:42,164 [main] INFO utilities.Log - BookCityTrip exists on page !
+2017-09-14 18:45:42,210 [main] INFO utilities.Log - BookTransfer exists on page !
+2017-09-14 18:45:42,270 [main] INFO utilities.Log - BookParkingSlot exists on page !
+2017-09-14 18:45:42,321 [main] INFO utilities.Log - BookBusinessTrip exists on page !
+2017-09-14 18:45:42,358 [main] INFO utilities.Log - BookFlyingBlueMiles exists on page !
+2017-09-14 18:45:42,406 [main] INFO utilities.Log - ViewDestinations exists on page !
+2017-09-14 18:45:42,441 [main] INFO utilities.Log - AdvanceSerach exists on page !
+2017-09-14 18:45:42,721 [main] INFO utilities.Log - Clicked on ManageBooking successfully !
+2017-09-14 18:45:42,759 [main] INFO utilities.Log - ManageBooking exists on page !
+2017-09-14 18:45:42,804 [main] INFO utilities.Log - OnlineCheckIn exists on page !
+2017-09-14 18:45:42,844 [main] INFO utilities.Log - ViewyourBooking exists on page !
+2017-09-14 18:45:43,128 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 18:45:43,187 [main] INFO utilities.Log - Service exists on page !
+2017-09-14 18:45:43,230 [main] INFO utilities.Log - Service&Information exists on page !
+2017-09-14 18:45:43,281 [main] INFO utilities.Log - CustomerService exists on page !
+2017-09-14 18:45:43,316 [main] INFO utilities.Log - FAQs exists on page !
+2017-09-14 18:45:43,546 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 18:45:43,575 [main] INFO utilities.Log - Facebook exists on page !
+2017-09-14 18:45:43,613 [main] INFO utilities.Log - Twitter exists on page !
+2017-09-14 18:45:43,643 [main] INFO utilities.Log - Instagram exists on page !
+2017-09-14 18:45:43,678 [main] INFO utilities.Log - Whatsapp exists on page !
+2017-09-14 18:45:43,722 [main] INFO utilities.Log - YouTube exists on page !
+2017-09-14 18:45:43,756 [main] INFO utilities.Log - GooglePlus exists on page !
+2017-09-14 18:45:43,787 [main] ERROR utilities.Log - HomeIcon does not exist on page !
+2017-09-14 18:45:43,787 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 18:45:47,762 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 18:45:50,997 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 18:45:53,284 [main] INFO utilities.Log - Value : Amsterdam (Schiphol), Netherlands entered successfully in : Departure
+2017-09-14 18:45:53,484 [main] INFO utilities.Log - Value : Alicante, Spain entered successfully in : Destination
+2017-09-14 18:45:55,670 [main] INFO utilities.Log - Value :   entered successfully in : DateDepartOn
+2017-09-14 18:45:57,818 [main] INFO utilities.Log - Value : 21 Sep 2017 entered successfully in : DateDepartOn
+2017-09-14 18:45:59,908 [main] INFO utilities.Log - Value :   entered successfully in : DateReturnOn
+2017-09-14 18:46:01,982 [main] INFO utilities.Log - Value : 29 Sep 2017 entered successfully in : DateReturnOn
+2017-09-14 18:46:02,066 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 18:48:13,915 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 18:48:13,926 [main] INFO utilities.Log - Total number of Row used return as 2
+2017-09-14 18:48:13,931 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 18:48:18,661 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 18:48:20,448 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 18:48:22,567 [main] INFO utilities.Log - SearchFormTitle exists on page !
+2017-09-14 18:48:22,570 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 18:48:25,672 [main] INFO utilities.Log - From exists on page !
+2017-09-14 18:48:25,709 [main] INFO utilities.Log - Departure exists on page !
+2017-09-14 18:48:25,756 [main] ERROR utilities.Log - To does not exist on page !
+2017-09-14 18:48:25,804 [main] INFO utilities.Log - Destination exists on page !
+2017-09-14 18:48:25,841 [main] INFO utilities.Log - DepartOn exists on page !
+2017-09-14 18:48:25,872 [main] ERROR utilities.Log - chkReturnOn does not exist on page !
+2017-09-14 18:48:25,910 [main] INFO utilities.Log - txtReturnOn exists on page !
+2017-09-14 18:48:25,941 [main] INFO utilities.Log - DateDepartOn exists on page !
+2017-09-14 18:48:25,988 [main] INFO utilities.Log - DateReturnOn exists on page !
+2017-09-14 18:48:26,026 [main] INFO utilities.Log - WhoWillBeTravelling exists on page !
+2017-09-14 18:48:26,072 [main] INFO utilities.Log - Travellers exists on page !
+2017-09-14 18:48:26,109 [main] ERROR utilities.Log - chkFlyingBlueMiles does not exist on page !
+2017-09-14 18:48:26,141 [main] INFO utilities.Log - txtShowBlueMiles exists on page !
+2017-09-14 18:48:26,627 [main] INFO utilities.Log - Clicked on Plan&Book successfully !
+2017-09-14 18:48:26,912 [main] INFO utilities.Log - Plan&Book exists on page !
+2017-09-14 18:48:27,028 [main] INFO utilities.Log - BookFlightLink exists on page !
+2017-09-14 18:48:27,144 [main] INFO utilities.Log - BookHotelLink exists on page !
+2017-09-14 18:48:27,428 [main] INFO utilities.Log - RentCarLink exists on page !
+2017-09-14 18:48:27,490 [main] INFO utilities.Log - ViewOffers exists on page !
+2017-09-14 18:48:27,559 [main] INFO utilities.Log - BookCityTrip exists on page !
+2017-09-14 18:48:27,613 [main] INFO utilities.Log - BookTransfer exists on page !
+2017-09-14 18:48:27,644 [main] INFO utilities.Log - BookParkingSlot exists on page !
+2017-09-14 18:48:27,691 [main] INFO utilities.Log - BookBusinessTrip exists on page !
+2017-09-14 18:48:27,728 [main] INFO utilities.Log - BookFlyingBlueMiles exists on page !
+2017-09-14 18:48:27,775 [main] INFO utilities.Log - ViewDestinations exists on page !
+2017-09-14 18:48:27,813 [main] INFO utilities.Log - AdvanceSerach exists on page !
+2017-09-14 18:48:28,092 [main] INFO utilities.Log - Clicked on ManageBooking successfully !
+2017-09-14 18:48:28,130 [main] INFO utilities.Log - ManageBooking exists on page !
+2017-09-14 18:48:28,192 [main] INFO utilities.Log - OnlineCheckIn exists on page !
+2017-09-14 18:48:28,229 [main] INFO utilities.Log - ViewyourBooking exists on page !
+2017-09-14 18:48:28,513 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 18:48:28,545 [main] INFO utilities.Log - Service exists on page !
+2017-09-14 18:48:28,591 [main] INFO utilities.Log - Service&Information exists on page !
+2017-09-14 18:48:28,661 [main] INFO utilities.Log - CustomerService exists on page !
+2017-09-14 18:48:28,692 [main] INFO utilities.Log - FAQs exists on page !
+2017-09-14 18:48:28,926 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 18:48:28,956 [main] INFO utilities.Log - Facebook exists on page !
+2017-09-14 18:48:28,990 [main] INFO utilities.Log - Twitter exists on page !
+2017-09-14 18:48:29,026 [main] INFO utilities.Log - Instagram exists on page !
+2017-09-14 18:48:29,061 [main] INFO utilities.Log - Whatsapp exists on page !
+2017-09-14 18:48:29,123 [main] INFO utilities.Log - YouTube exists on page !
+2017-09-14 18:48:29,181 [main] INFO utilities.Log - GooglePlus exists on page !
+2017-09-14 18:48:29,215 [main] ERROR utilities.Log - HomeIcon does not exist on page !
+2017-09-14 18:48:29,215 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 18:48:33,245 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 18:48:35,021 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 18:48:37,340 [main] INFO utilities.Log - Value : Amsterdam (Schiphol), Netherlands entered successfully in : Departure
+2017-09-14 18:48:37,524 [main] INFO utilities.Log - Value : Alicante, Spain entered successfully in : Destination
+2017-09-14 18:48:41,859 [main] INFO utilities.Log - Value : 21 Sep 2017 entered successfully in : DateDepartOn
+2017-09-14 18:48:43,948 [main] INFO utilities.Log - Value : null entered successfully in : DateReturnOn
+2017-09-14 18:48:46,039 [main] INFO utilities.Log - Value : 29 Sep 2017 entered successfully in : DateReturnOn
+2017-09-14 18:48:46,139 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 18:49:56,188 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 18:49:56,207 [main] INFO utilities.Log - Total number of Row used return as 2
+2017-09-14 18:49:56,210 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 18:49:59,729 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 18:50:02,178 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 18:50:04,267 [main] INFO utilities.Log - SearchFormTitle exists on page !
+2017-09-14 18:50:04,267 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 18:50:07,351 [main] INFO utilities.Log - From exists on page !
+2017-09-14 18:50:07,405 [main] INFO utilities.Log - Departure exists on page !
+2017-09-14 18:50:07,436 [main] ERROR utilities.Log - To does not exist on page !
+2017-09-14 18:50:07,483 [main] INFO utilities.Log - Destination exists on page !
+2017-09-14 18:50:07,532 [main] INFO utilities.Log - DepartOn exists on page !
+2017-09-14 18:50:07,552 [main] ERROR utilities.Log - chkReturnOn does not exist on page !
+2017-09-14 18:50:07,599 [main] INFO utilities.Log - txtReturnOn exists on page !
+2017-09-14 18:50:07,635 [main] INFO utilities.Log - DateDepartOn exists on page !
+2017-09-14 18:50:07,668 [main] INFO utilities.Log - DateReturnOn exists on page !
+2017-09-14 18:50:07,699 [main] INFO utilities.Log - WhoWillBeTravelling exists on page !
+2017-09-14 18:50:07,736 [main] INFO utilities.Log - Travellers exists on page !
+2017-09-14 18:50:07,767 [main] ERROR utilities.Log - chkFlyingBlueMiles does not exist on page !
+2017-09-14 18:50:07,798 [main] INFO utilities.Log - txtShowBlueMiles exists on page !
+2017-09-14 18:50:08,412 [main] INFO utilities.Log - Clicked on Plan&Book successfully !
+2017-09-14 18:50:08,497 [main] INFO utilities.Log - Plan&Book exists on page !
+2017-09-14 18:50:08,611 [main] INFO utilities.Log - BookFlightLink exists on page !
+2017-09-14 18:50:08,817 [main] INFO utilities.Log - BookHotelLink exists on page !
+2017-09-14 18:50:08,882 [main] INFO utilities.Log - RentCarLink exists on page !
+2017-09-14 18:50:08,980 [main] INFO utilities.Log - ViewOffers exists on page !
+2017-09-14 18:50:09,029 [main] INFO utilities.Log - BookCityTrip exists on page !
+2017-09-14 18:50:09,069 [main] INFO utilities.Log - BookTransfer exists on page !
+2017-09-14 18:50:09,107 [main] INFO utilities.Log - BookParkingSlot exists on page !
+2017-09-14 18:50:09,158 [main] INFO utilities.Log - BookBusinessTrip exists on page !
+2017-09-14 18:50:09,204 [main] INFO utilities.Log - BookFlyingBlueMiles exists on page !
+2017-09-14 18:50:09,240 [main] INFO utilities.Log - ViewDestinations exists on page !
+2017-09-14 18:50:09,282 [main] INFO utilities.Log - AdvanceSerach exists on page !
+2017-09-14 18:50:09,556 [main] INFO utilities.Log - Clicked on ManageBooking successfully !
+2017-09-14 18:50:09,616 [main] INFO utilities.Log - ManageBooking exists on page !
+2017-09-14 18:50:09,656 [main] INFO utilities.Log - OnlineCheckIn exists on page !
+2017-09-14 18:50:09,705 [main] INFO utilities.Log - ViewyourBooking exists on page !
+2017-09-14 18:50:09,980 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 18:50:10,019 [main] INFO utilities.Log - Service exists on page !
+2017-09-14 18:50:10,062 [main] INFO utilities.Log - Service&Information exists on page !
+2017-09-14 18:50:10,111 [main] INFO utilities.Log - CustomerService exists on page !
+2017-09-14 18:50:10,146 [main] INFO utilities.Log - FAQs exists on page !
+2017-09-14 18:50:10,382 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 18:50:10,423 [main] INFO utilities.Log - Facebook exists on page !
+2017-09-14 18:50:10,456 [main] INFO utilities.Log - Twitter exists on page !
+2017-09-14 18:50:10,489 [main] INFO utilities.Log - Instagram exists on page !
+2017-09-14 18:50:10,522 [main] INFO utilities.Log - Whatsapp exists on page !
+2017-09-14 18:50:10,562 [main] INFO utilities.Log - YouTube exists on page !
+2017-09-14 18:50:10,594 [main] INFO utilities.Log - GooglePlus exists on page !
+2017-09-14 18:50:10,622 [main] ERROR utilities.Log - HomeIcon does not exist on page !
+2017-09-14 18:50:10,624 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 18:50:14,608 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 18:50:17,548 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 18:50:19,797 [main] INFO utilities.Log - Value : Amsterdam (Schiphol), Netherlands entered successfully in : Departure
+2017-09-14 18:50:19,997 [main] INFO utilities.Log - Value : Alicante, Spain entered successfully in : Destination
+2017-09-14 18:50:22,246 [main] INFO utilities.Log - Value : 21 Sep 2017 entered successfully in : DateDepartOn
+2017-09-14 18:50:22,674 [main] INFO utilities.Log - Value : 29 Sep 2017 entered successfully in : DateReturnOn
+2017-09-14 18:50:22,795 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 19:07:37,702 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 19:07:37,707 [main] INFO utilities.Log - Total number of Row used return as 2
+2017-09-14 19:07:37,707 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 19:07:41,264 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 19:07:43,718 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 19:07:45,822 [main] INFO utilities.Log - SearchFormTitle exists on page !
+2017-09-14 19:07:45,826 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 19:07:48,890 [main] INFO utilities.Log - From exists on page !
+2017-09-14 19:07:48,944 [main] INFO utilities.Log - Departure exists on page !
+2017-09-14 19:07:48,975 [main] ERROR utilities.Log - To does not exist on page !
+2017-09-14 19:07:49,029 [main] INFO utilities.Log - Destination exists on page !
+2017-09-14 19:07:49,060 [main] INFO utilities.Log - DepartOn exists on page !
+2017-09-14 19:07:49,113 [main] ERROR utilities.Log - chkReturnOn does not exist on page !
+2017-09-14 19:07:49,145 [main] INFO utilities.Log - txtReturnOn exists on page !
+2017-09-14 19:07:49,176 [main] INFO utilities.Log - DateDepartOn exists on page !
+2017-09-14 19:07:49,213 [main] INFO utilities.Log - DateReturnOn exists on page !
+2017-09-14 19:07:49,260 [main] INFO utilities.Log - WhoWillBeTravelling exists on page !
+2017-09-14 19:07:49,291 [main] INFO utilities.Log - Travellers exists on page !
+2017-09-14 19:07:49,329 [main] ERROR utilities.Log - chkFlyingBlueMiles does not exist on page !
+2017-09-14 19:07:49,360 [main] INFO utilities.Log - txtShowBlueMiles exists on page !
+2017-09-14 19:07:49,790 [main] INFO utilities.Log - Clicked on Plan&Book successfully !
+2017-09-14 19:07:49,942 [main] INFO utilities.Log - Plan&Book exists on page !
+2017-09-14 19:07:49,998 [main] INFO utilities.Log - BookFlightLink exists on page !
+2017-09-14 19:07:50,069 [main] INFO utilities.Log - BookHotelLink exists on page !
+2017-09-14 19:07:50,124 [main] INFO utilities.Log - RentCarLink exists on page !
+2017-09-14 19:07:50,170 [main] INFO utilities.Log - ViewOffers exists on page !
+2017-09-14 19:07:50,212 [main] INFO utilities.Log - BookCityTrip exists on page !
+2017-09-14 19:07:50,251 [main] INFO utilities.Log - BookTransfer exists on page !
+2017-09-14 19:07:50,336 [main] INFO utilities.Log - BookParkingSlot exists on page !
+2017-09-14 19:07:50,374 [main] INFO utilities.Log - BookBusinessTrip exists on page !
+2017-09-14 19:07:50,411 [main] INFO utilities.Log - BookFlyingBlueMiles exists on page !
+2017-09-14 19:07:50,447 [main] INFO utilities.Log - ViewDestinations exists on page !
+2017-09-14 19:07:50,504 [main] INFO utilities.Log - AdvanceSerach exists on page !
+2017-09-14 19:07:50,786 [main] INFO utilities.Log - Clicked on ManageBooking successfully !
+2017-09-14 19:07:50,824 [main] INFO utilities.Log - ManageBooking exists on page !
+2017-09-14 19:07:50,865 [main] INFO utilities.Log - OnlineCheckIn exists on page !
+2017-09-14 19:07:50,912 [main] INFO utilities.Log - ViewyourBooking exists on page !
+2017-09-14 19:07:51,207 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 19:07:51,274 [main] INFO utilities.Log - Service exists on page !
+2017-09-14 19:07:51,342 [main] INFO utilities.Log - Service&Information exists on page !
+2017-09-14 19:07:51,388 [main] INFO utilities.Log - CustomerService exists on page !
+2017-09-14 19:07:51,443 [main] INFO utilities.Log - FAQs exists on page !
+2017-09-14 19:07:51,772 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 19:07:51,807 [main] INFO utilities.Log - Facebook exists on page !
+2017-09-14 19:07:51,843 [main] INFO utilities.Log - Twitter exists on page !
+2017-09-14 19:07:51,873 [main] INFO utilities.Log - Instagram exists on page !
+2017-09-14 19:07:51,906 [main] INFO utilities.Log - Whatsapp exists on page !
+2017-09-14 19:07:51,940 [main] INFO utilities.Log - YouTube exists on page !
+2017-09-14 19:07:51,969 [main] INFO utilities.Log - GooglePlus exists on page !
+2017-09-14 19:07:52,006 [main] ERROR utilities.Log - HomeIcon does not exist on page !
+2017-09-14 19:07:52,007 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 19:07:54,918 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 19:07:56,766 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 19:07:59,037 [main] INFO utilities.Log - Value : Amsterdam (Schiphol), Netherlands entered successfully in : Departure
+2017-09-14 19:07:59,219 [main] INFO utilities.Log - Value : Alicante, Spain entered successfully in : Destination
+2017-09-14 19:08:01,486 [main] INFO utilities.Log - Value : 21 Sep 2017 entered successfully in : DateDepartOn
+2017-09-14 19:08:01,987 [main] INFO utilities.Log - Value : 29 Sep 2017 entered successfully in : DateReturnOn
+2017-09-14 19:08:02,257 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 19:10:07,976 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 19:10:07,992 [main] INFO utilities.Log - Total number of Row used return as 2
+2017-09-14 19:10:07,996 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 19:10:11,516 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 19:10:13,433 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 19:10:15,531 [main] INFO utilities.Log - SearchFormTitle exists on page !
+2017-09-14 19:10:15,532 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 19:10:18,587 [main] INFO utilities.Log - From exists on page !
+2017-09-14 19:10:18,625 [main] INFO utilities.Log - Departure exists on page !
+2017-09-14 19:10:18,672 [main] ERROR utilities.Log - To does not exist on page !
+2017-09-14 19:10:18,725 [main] INFO utilities.Log - Destination exists on page !
+2017-09-14 19:10:18,787 [main] INFO utilities.Log - DepartOn exists on page !
+2017-09-14 19:10:18,825 [main] ERROR utilities.Log - chkReturnOn does not exist on page !
+2017-09-14 19:10:18,856 [main] INFO utilities.Log - txtReturnOn exists on page !
+2017-09-14 19:10:18,888 [main] INFO utilities.Log - DateDepartOn exists on page !
+2017-09-14 19:10:18,925 [main] INFO utilities.Log - DateReturnOn exists on page !
+2017-09-14 19:10:18,956 [main] INFO utilities.Log - WhoWillBeTravelling exists on page !
+2017-09-14 19:10:19,005 [main] INFO utilities.Log - Travellers exists on page !
+2017-09-14 19:10:19,025 [main] ERROR utilities.Log - chkFlyingBlueMiles does not exist on page !
+2017-09-14 19:10:19,056 [main] INFO utilities.Log - txtShowBlueMiles exists on page !
+2017-09-14 19:10:19,468 [main] INFO utilities.Log - Clicked on Plan&Book successfully !
+2017-09-14 19:10:19,782 [main] INFO utilities.Log - Plan&Book exists on page !
+2017-09-14 19:10:19,871 [main] INFO utilities.Log - BookFlightLink exists on page !
+2017-09-14 19:10:19,952 [main] INFO utilities.Log - BookHotelLink exists on page !
+2017-09-14 19:10:20,002 [main] INFO utilities.Log - RentCarLink exists on page !
+2017-09-14 19:10:20,076 [main] INFO utilities.Log - ViewOffers exists on page !
+2017-09-14 19:10:20,132 [main] INFO utilities.Log - BookCityTrip exists on page !
+2017-09-14 19:10:20,276 [main] INFO utilities.Log - BookTransfer exists on page !
+2017-09-14 19:10:20,322 [main] INFO utilities.Log - BookParkingSlot exists on page !
+2017-09-14 19:10:20,398 [main] INFO utilities.Log - BookBusinessTrip exists on page !
+2017-09-14 19:10:20,451 [main] INFO utilities.Log - BookFlyingBlueMiles exists on page !
+2017-09-14 19:10:20,494 [main] INFO utilities.Log - ViewDestinations exists on page !
+2017-09-14 19:10:20,540 [main] INFO utilities.Log - AdvanceSerach exists on page !
+2017-09-14 19:10:20,818 [main] INFO utilities.Log - Clicked on ManageBooking successfully !
+2017-09-14 19:10:20,854 [main] INFO utilities.Log - ManageBooking exists on page !
+2017-09-14 19:10:20,904 [main] INFO utilities.Log - OnlineCheckIn exists on page !
+2017-09-14 19:10:20,947 [main] INFO utilities.Log - ViewyourBooking exists on page !
+2017-09-14 19:10:21,225 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 19:10:21,273 [main] INFO utilities.Log - Service exists on page !
+2017-09-14 19:10:21,313 [main] INFO utilities.Log - Service&Information exists on page !
+2017-09-14 19:10:21,365 [main] INFO utilities.Log - CustomerService exists on page !
+2017-09-14 19:10:21,400 [main] INFO utilities.Log - FAQs exists on page !
+2017-09-14 19:10:21,634 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 19:10:21,679 [main] INFO utilities.Log - Facebook exists on page !
+2017-09-14 19:10:21,713 [main] INFO utilities.Log - Twitter exists on page !
+2017-09-14 19:10:21,746 [main] INFO utilities.Log - Instagram exists on page !
+2017-09-14 19:10:21,776 [main] INFO utilities.Log - Whatsapp exists on page !
+2017-09-14 19:10:21,818 [main] INFO utilities.Log - YouTube exists on page !
+2017-09-14 19:10:21,850 [main] INFO utilities.Log - GooglePlus exists on page !
+2017-09-14 19:10:21,880 [main] ERROR utilities.Log - HomeIcon does not exist on page !
+2017-09-14 19:10:21,882 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 19:10:24,738 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 19:10:26,488 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 19:10:28,760 [main] INFO utilities.Log - Value : Amsterdam (Schiphol), Netherlands entered successfully in : Departure
+2017-09-14 19:10:28,960 [main] INFO utilities.Log - Value : Alicante, Spain entered successfully in : Destination
+2017-09-14 19:10:31,200 [main] INFO utilities.Log - Value : 21 Sep 2017 entered successfully in : DateDepartOn
+2017-09-14 19:10:31,819 [main] INFO utilities.Log - Value : 29 Sep 2017 entered successfully in : DateReturnOn
+2017-09-14 19:10:32,096 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 19:11:39,701 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 19:11:39,713 [main] INFO utilities.Log - Total number of Row used return as 2
+2017-09-14 19:11:39,713 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 19:11:43,274 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 19:11:45,774 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 19:11:47,865 [main] INFO utilities.Log - SearchFormTitle exists on page !
+2017-09-14 19:11:47,877 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 19:11:50,940 [main] INFO utilities.Log - From exists on page !
+2017-09-14 19:11:50,983 [main] INFO utilities.Log - Departure exists on page !
+2017-09-14 19:11:51,024 [main] ERROR utilities.Log - To does not exist on page !
+2017-09-14 19:11:51,071 [main] INFO utilities.Log - Destination exists on page !
+2017-09-14 19:11:51,102 [main] INFO utilities.Log - DepartOn exists on page !
+2017-09-14 19:11:51,156 [main] ERROR utilities.Log - chkReturnOn does not exist on page !
+2017-09-14 19:11:51,187 [main] INFO utilities.Log - txtReturnOn exists on page !
+2017-09-14 19:11:51,224 [main] INFO utilities.Log - DateDepartOn exists on page !
+2017-09-14 19:11:51,256 [main] INFO utilities.Log - DateReturnOn exists on page !
+2017-09-14 19:11:51,287 [main] INFO utilities.Log - WhoWillBeTravelling exists on page !
+2017-09-14 19:11:51,324 [main] INFO utilities.Log - Travellers exists on page !
+2017-09-14 19:11:51,356 [main] ERROR utilities.Log - chkFlyingBlueMiles does not exist on page !
+2017-09-14 19:11:51,387 [main] INFO utilities.Log - txtShowBlueMiles exists on page !
+2017-09-14 19:11:51,802 [main] INFO utilities.Log - Clicked on Plan&Book successfully !
+2017-09-14 19:11:52,123 [main] INFO utilities.Log - Plan&Book exists on page !
+2017-09-14 19:11:52,156 [main] INFO utilities.Log - BookFlightLink exists on page !
+2017-09-14 19:11:52,187 [main] INFO utilities.Log - BookHotelLink exists on page !
+2017-09-14 19:11:52,224 [main] INFO utilities.Log - RentCarLink exists on page !
+2017-09-14 19:11:52,302 [main] INFO utilities.Log - ViewOffers exists on page !
+2017-09-14 19:11:52,389 [main] INFO utilities.Log - BookCityTrip exists on page !
+2017-09-14 19:11:52,426 [main] INFO utilities.Log - BookTransfer exists on page !
+2017-09-14 19:11:52,458 [main] INFO utilities.Log - BookParkingSlot exists on page !
+2017-09-14 19:11:52,490 [main] INFO utilities.Log - BookBusinessTrip exists on page !
+2017-09-14 19:11:52,659 [main] INFO utilities.Log - BookFlyingBlueMiles exists on page !
+2017-09-14 19:11:52,706 [main] INFO utilities.Log - ViewDestinations exists on page !
+2017-09-14 19:11:52,744 [main] INFO utilities.Log - AdvanceSerach exists on page !
+2017-09-14 19:11:53,043 [main] INFO utilities.Log - Clicked on ManageBooking successfully !
+2017-09-14 19:11:53,090 [main] INFO utilities.Log - ManageBooking exists on page !
+2017-09-14 19:11:53,143 [main] INFO utilities.Log - OnlineCheckIn exists on page !
+2017-09-14 19:11:53,191 [main] INFO utilities.Log - ViewyourBooking exists on page !
+2017-09-14 19:11:53,475 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 19:11:53,506 [main] INFO utilities.Log - Service exists on page !
+2017-09-14 19:11:53,575 [main] INFO utilities.Log - Service&Information exists on page !
+2017-09-14 19:11:53,644 [main] INFO utilities.Log - CustomerService exists on page !
+2017-09-14 19:11:53,675 [main] INFO utilities.Log - FAQs exists on page !
+2017-09-14 19:11:53,906 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 19:11:53,960 [main] INFO utilities.Log - Facebook exists on page !
+2017-09-14 19:11:53,991 [main] INFO utilities.Log - Twitter exists on page !
+2017-09-14 19:11:54,028 [main] INFO utilities.Log - Instagram exists on page !
+2017-09-14 19:11:54,060 [main] INFO utilities.Log - Whatsapp exists on page !
+2017-09-14 19:11:54,091 [main] INFO utilities.Log - YouTube exists on page !
+2017-09-14 19:11:54,128 [main] INFO utilities.Log - GooglePlus exists on page !
+2017-09-14 19:11:54,144 [main] ERROR utilities.Log - HomeIcon does not exist on page !
+2017-09-14 19:11:54,160 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 19:11:57,030 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 19:11:58,764 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 19:12:01,082 [main] INFO utilities.Log - Value : Amsterdam (Schiphol), Netherlands entered successfully in : Departure
+2017-09-14 19:12:01,298 [main] INFO utilities.Log - Value : Alicante, Spain entered successfully in : Destination
+2017-09-14 19:12:03,516 [main] INFO utilities.Log - Value : 21 Sep 2017 entered successfully in : DateDepartOn
+2017-09-14 19:12:03,986 [main] INFO utilities.Log - Value : 29 Sep 2017 entered successfully in : DateReturnOn
+2017-09-14 19:12:04,518 [main] INFO utilities.Log - Clicked on Travellers successfully !
+2017-09-14 19:12:04,901 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 19:13:43,894 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 19:13:43,907 [main] INFO utilities.Log - Total number of Row used return as 2
+2017-09-14 19:13:43,911 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 19:13:47,381 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 19:13:50,924 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 19:13:53,041 [main] INFO utilities.Log - SearchFormTitle exists on page !
+2017-09-14 19:13:53,043 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 19:13:56,128 [main] INFO utilities.Log - From exists on page !
+2017-09-14 19:13:56,165 [main] INFO utilities.Log - Departure exists on page !
+2017-09-14 19:13:56,214 [main] ERROR utilities.Log - To does not exist on page !
+2017-09-14 19:13:56,259 [main] INFO utilities.Log - Destination exists on page !
+2017-09-14 19:13:56,290 [main] INFO utilities.Log - DepartOn exists on page !
+2017-09-14 19:13:56,327 [main] ERROR utilities.Log - chkReturnOn does not exist on page !
+2017-09-14 19:13:56,359 [main] INFO utilities.Log - txtReturnOn exists on page !
+2017-09-14 19:13:56,390 [main] INFO utilities.Log - DateDepartOn exists on page !
+2017-09-14 19:13:56,427 [main] INFO utilities.Log - DateReturnOn exists on page !
+2017-09-14 19:13:56,459 [main] INFO utilities.Log - WhoWillBeTravelling exists on page !
+2017-09-14 19:13:56,505 [main] INFO utilities.Log - Travellers exists on page !
+2017-09-14 19:13:56,528 [main] ERROR utilities.Log - chkFlyingBlueMiles does not exist on page !
+2017-09-14 19:13:56,559 [main] INFO utilities.Log - txtShowBlueMiles exists on page !
+2017-09-14 19:13:57,123 [main] INFO utilities.Log - Clicked on Plan&Book successfully !
+2017-09-14 19:13:57,309 [main] INFO utilities.Log - Plan&Book exists on page !
+2017-09-14 19:13:57,367 [main] INFO utilities.Log - BookFlightLink exists on page !
+2017-09-14 19:13:57,490 [main] INFO utilities.Log - BookHotelLink exists on page !
+2017-09-14 19:13:57,700 [main] INFO utilities.Log - RentCarLink exists on page !
+2017-09-14 19:13:57,805 [main] INFO utilities.Log - ViewOffers exists on page !
+2017-09-14 19:13:57,840 [main] INFO utilities.Log - BookCityTrip exists on page !
+2017-09-14 19:13:57,872 [main] INFO utilities.Log - BookTransfer exists on page !
+2017-09-14 19:13:57,904 [main] INFO utilities.Log - BookParkingSlot exists on page !
+2017-09-14 19:13:57,938 [main] INFO utilities.Log - BookBusinessTrip exists on page !
+2017-09-14 19:13:57,973 [main] INFO utilities.Log - BookFlyingBlueMiles exists on page !
+2017-09-14 19:13:58,006 [main] INFO utilities.Log - ViewDestinations exists on page !
+2017-09-14 19:13:58,043 [main] INFO utilities.Log - AdvanceSerach exists on page !
+2017-09-14 19:13:58,315 [main] INFO utilities.Log - Clicked on ManageBooking successfully !
+2017-09-14 19:13:58,351 [main] INFO utilities.Log - ManageBooking exists on page !
+2017-09-14 19:13:58,390 [main] INFO utilities.Log - OnlineCheckIn exists on page !
+2017-09-14 19:13:58,438 [main] INFO utilities.Log - ViewyourBooking exists on page !
+2017-09-14 19:13:58,718 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 19:13:58,783 [main] INFO utilities.Log - Service exists on page !
+2017-09-14 19:13:58,844 [main] INFO utilities.Log - Service&Information exists on page !
+2017-09-14 19:13:58,899 [main] INFO utilities.Log - CustomerService exists on page !
+2017-09-14 19:13:58,936 [main] INFO utilities.Log - FAQs exists on page !
+2017-09-14 19:13:59,190 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 19:13:59,245 [main] INFO utilities.Log - Facebook exists on page !
+2017-09-14 19:13:59,285 [main] INFO utilities.Log - Twitter exists on page !
+2017-09-14 19:13:59,324 [main] INFO utilities.Log - Instagram exists on page !
+2017-09-14 19:13:59,373 [main] INFO utilities.Log - Whatsapp exists on page !
+2017-09-14 19:13:59,415 [main] INFO utilities.Log - YouTube exists on page !
+2017-09-14 19:13:59,456 [main] INFO utilities.Log - GooglePlus exists on page !
+2017-09-14 19:13:59,486 [main] ERROR utilities.Log - HomeIcon does not exist on page !
+2017-09-14 19:13:59,487 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 19:14:02,358 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 19:14:04,908 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 19:14:07,179 [main] INFO utilities.Log - Value : Amsterdam (Schiphol), Netherlands entered successfully in : Departure
+2017-09-14 19:14:07,426 [main] INFO utilities.Log - Value : Alicante, Spain entered successfully in : Destination
+2017-09-14 19:14:09,696 [main] INFO utilities.Log - Value : 21 Sep 2017 entered successfully in : DateDepartOn
+2017-09-14 19:14:10,166 [main] INFO utilities.Log - Value : 29 Sep 2017 entered successfully in : DateReturnOn
+2017-09-14 19:14:10,614 [main] INFO utilities.Log - Clicked on Travellers successfully !
+2017-09-14 19:14:11,153 [main] INFO utilities.Log - Clicked on AdultInputType successfully !
+2017-09-14 19:14:11,284 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 19:16:47,688 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 19:16:47,693 [main] INFO utilities.Log - Total number of Row used return as 2
+2017-09-14 19:16:47,693 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 19:16:51,224 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 19:16:52,893 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 19:16:54,992 [main] INFO utilities.Log - SearchFormTitle exists on page !
+2017-09-14 19:16:54,993 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 19:16:58,050 [main] INFO utilities.Log - From exists on page !
+2017-09-14 19:16:58,094 [main] INFO utilities.Log - Departure exists on page !
+2017-09-14 19:16:58,135 [main] ERROR utilities.Log - To does not exist on page !
+2017-09-14 19:16:58,182 [main] INFO utilities.Log - Destination exists on page !
+2017-09-14 19:16:58,235 [main] INFO utilities.Log - DepartOn exists on page !
+2017-09-14 19:16:58,266 [main] ERROR utilities.Log - chkReturnOn does not exist on page !
+2017-09-14 19:16:58,297 [main] INFO utilities.Log - txtReturnOn exists on page !
+2017-09-14 19:16:58,335 [main] INFO utilities.Log - DateDepartOn exists on page !
+2017-09-14 19:16:58,382 [main] INFO utilities.Log - DateReturnOn exists on page !
+2017-09-14 19:16:58,413 [main] INFO utilities.Log - WhoWillBeTravelling exists on page !
+2017-09-14 19:16:58,451 [main] INFO utilities.Log - Travellers exists on page !
+2017-09-14 19:16:58,482 [main] ERROR utilities.Log - chkFlyingBlueMiles does not exist on page !
+2017-09-14 19:16:58,513 [main] INFO utilities.Log - txtShowBlueMiles exists on page !
+2017-09-14 19:16:59,051 [main] INFO utilities.Log - Clicked on Plan&Book successfully !
+2017-09-14 19:16:59,184 [main] INFO utilities.Log - Plan&Book exists on page !
+2017-09-14 19:16:59,221 [main] INFO utilities.Log - BookFlightLink exists on page !
+2017-09-14 19:16:59,271 [main] INFO utilities.Log - BookHotelLink exists on page !
+2017-09-14 19:16:59,395 [main] INFO utilities.Log - RentCarLink exists on page !
+2017-09-14 19:16:59,475 [main] INFO utilities.Log - ViewOffers exists on page !
+2017-09-14 19:16:59,511 [main] INFO utilities.Log - BookCityTrip exists on page !
+2017-09-14 19:16:59,639 [main] INFO utilities.Log - BookTransfer exists on page !
+2017-09-14 19:16:59,711 [main] INFO utilities.Log - BookParkingSlot exists on page !
+2017-09-14 19:16:59,746 [main] INFO utilities.Log - BookBusinessTrip exists on page !
+2017-09-14 19:16:59,781 [main] INFO utilities.Log - BookFlyingBlueMiles exists on page !
+2017-09-14 19:16:59,856 [main] INFO utilities.Log - ViewDestinations exists on page !
+2017-09-14 19:16:59,944 [main] INFO utilities.Log - AdvanceSerach exists on page !
+2017-09-14 19:17:00,249 [main] INFO utilities.Log - Clicked on ManageBooking successfully !
+2017-09-14 19:17:00,285 [main] INFO utilities.Log - ManageBooking exists on page !
+2017-09-14 19:17:00,333 [main] INFO utilities.Log - OnlineCheckIn exists on page !
+2017-09-14 19:17:00,382 [main] INFO utilities.Log - ViewyourBooking exists on page !
+2017-09-14 19:17:00,666 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 19:17:00,712 [main] INFO utilities.Log - Service exists on page !
+2017-09-14 19:17:00,753 [main] INFO utilities.Log - Service&Information exists on page !
+2017-09-14 19:17:00,806 [main] INFO utilities.Log - CustomerService exists on page !
+2017-09-14 19:17:00,841 [main] INFO utilities.Log - FAQs exists on page !
+2017-09-14 19:17:01,077 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 19:17:01,121 [main] INFO utilities.Log - Facebook exists on page !
+2017-09-14 19:17:01,155 [main] INFO utilities.Log - Twitter exists on page !
+2017-09-14 19:17:01,188 [main] INFO utilities.Log - Instagram exists on page !
+2017-09-14 19:17:01,220 [main] INFO utilities.Log - Whatsapp exists on page !
+2017-09-14 19:17:01,260 [main] INFO utilities.Log - YouTube exists on page !
+2017-09-14 19:17:01,293 [main] INFO utilities.Log - GooglePlus exists on page !
+2017-09-14 19:17:01,324 [main] ERROR utilities.Log - HomeIcon does not exist on page !
+2017-09-14 19:17:01,324 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 19:17:04,202 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 19:17:05,968 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 19:17:08,223 [main] INFO utilities.Log - Value : Amsterdam (Schiphol), Netherlands entered successfully in : Departure
+2017-09-14 19:17:08,407 [main] INFO utilities.Log - Value : Alicante, Spain entered successfully in : Destination
+2017-09-14 19:17:10,644 [main] INFO utilities.Log - Value : 21 Sep 2017 entered successfully in : DateDepartOn
+2017-09-14 19:17:10,892 [main] INFO utilities.Log - Value : 29 Sep 2017 entered successfully in : DateReturnOn
+2017-09-14 19:17:11,295 [main] INFO utilities.Log - Clicked on Travellers successfully !
+2017-09-14 19:17:12,444 [main] INFO utilities.Log - Clicked on AdultInputType successfully !
+2017-09-14 19:17:12,784 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 19:23:37,927 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 19:23:37,945 [main] INFO utilities.Log - Total number of Row used return as 2
+2017-09-14 19:23:37,945 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 19:23:41,441 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 19:23:43,362 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 19:23:45,449 [main] INFO utilities.Log - SearchFormTitle exists on page !
+2017-09-14 19:23:45,455 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 19:23:48,537 [main] INFO utilities.Log - From exists on page !
+2017-09-14 19:23:48,574 [main] INFO utilities.Log - Departure exists on page !
+2017-09-14 19:23:48,621 [main] ERROR utilities.Log - To does not exist on page !
+2017-09-14 19:23:48,668 [main] INFO utilities.Log - Destination exists on page !
+2017-09-14 19:23:48,719 [main] INFO utilities.Log - DepartOn exists on page !
+2017-09-14 19:23:48,753 [main] ERROR utilities.Log - chkReturnOn does not exist on page !
+2017-09-14 19:23:48,784 [main] INFO utilities.Log - txtReturnOn exists on page !
+2017-09-14 19:23:48,821 [main] INFO utilities.Log - DateDepartOn exists on page !
+2017-09-14 19:23:48,853 [main] INFO utilities.Log - DateReturnOn exists on page !
+2017-09-14 19:23:48,884 [main] INFO utilities.Log - WhoWillBeTravelling exists on page !
+2017-09-14 19:23:48,921 [main] INFO utilities.Log - Travellers exists on page !
+2017-09-14 19:23:48,953 [main] ERROR utilities.Log - chkFlyingBlueMiles does not exist on page !
+2017-09-14 19:23:48,984 [main] INFO utilities.Log - txtShowBlueMiles exists on page !
+2017-09-14 19:23:49,452 [main] INFO utilities.Log - Clicked on Plan&Book successfully !
+2017-09-14 19:23:49,710 [main] INFO utilities.Log - Plan&Book exists on page !
+2017-09-14 19:23:49,795 [main] INFO utilities.Log - BookFlightLink exists on page !
+2017-09-14 19:23:49,887 [main] INFO utilities.Log - BookHotelLink exists on page !
+2017-09-14 19:23:50,127 [main] INFO utilities.Log - RentCarLink exists on page !
+2017-09-14 19:23:50,194 [main] INFO utilities.Log - ViewOffers exists on page !
+2017-09-14 19:23:50,241 [main] INFO utilities.Log - BookCityTrip exists on page !
+2017-09-14 19:23:50,274 [main] INFO utilities.Log - BookTransfer exists on page !
+2017-09-14 19:23:50,315 [main] INFO utilities.Log - BookParkingSlot exists on page !
+2017-09-14 19:23:50,349 [main] INFO utilities.Log - BookBusinessTrip exists on page !
+2017-09-14 19:23:50,391 [main] INFO utilities.Log - BookFlyingBlueMiles exists on page !
+2017-09-14 19:23:50,432 [main] INFO utilities.Log - ViewDestinations exists on page !
+2017-09-14 19:23:50,470 [main] INFO utilities.Log - AdvanceSerach exists on page !
+2017-09-14 19:23:50,747 [main] INFO utilities.Log - Clicked on ManageBooking successfully !
+2017-09-14 19:23:50,786 [main] INFO utilities.Log - ManageBooking exists on page !
+2017-09-14 19:23:50,848 [main] INFO utilities.Log - OnlineCheckIn exists on page !
+2017-09-14 19:23:50,902 [main] INFO utilities.Log - ViewyourBooking exists on page !
+2017-09-14 19:23:51,181 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 19:23:51,220 [main] INFO utilities.Log - Service exists on page !
+2017-09-14 19:23:51,262 [main] INFO utilities.Log - Service&Information exists on page !
+2017-09-14 19:23:51,313 [main] INFO utilities.Log - CustomerService exists on page !
+2017-09-14 19:23:51,352 [main] INFO utilities.Log - FAQs exists on page !
+2017-09-14 19:23:51,580 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 19:23:51,609 [main] INFO utilities.Log - Facebook exists on page !
+2017-09-14 19:23:51,644 [main] INFO utilities.Log - Twitter exists on page !
+2017-09-14 19:23:51,673 [main] INFO utilities.Log - Instagram exists on page !
+2017-09-14 19:23:51,705 [main] INFO utilities.Log - Whatsapp exists on page !
+2017-09-14 19:23:51,746 [main] INFO utilities.Log - YouTube exists on page !
+2017-09-14 19:23:51,780 [main] INFO utilities.Log - GooglePlus exists on page !
+2017-09-14 19:23:51,810 [main] ERROR utilities.Log - HomeIcon does not exist on page !
+2017-09-14 19:23:51,811 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 19:23:54,666 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 19:23:56,776 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 19:23:59,042 [main] INFO utilities.Log - Value : Amsterdam (Schiphol), Netherlands entered successfully in : Departure
+2017-09-14 19:23:59,163 [main] INFO utilities.Log - Value : Alicante, Spain entered successfully in : Destination
+2017-09-14 19:24:01,499 [main] INFO utilities.Log - Value : 21 Sep 2017 entered successfully in : DateDepartOn
+2017-09-14 19:24:02,029 [main] INFO utilities.Log - Value : 29 Sep 2017 entered successfully in : DateReturnOn
+2017-09-14 19:24:02,483 [main] INFO utilities.Log - Clicked on Travellers successfully !
+2017-09-14 19:24:05,979 [main] INFO utilities.Log - Clicked on Submit successfully !
+2017-09-14 19:24:06,131 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 19:24:59,382 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 19:24:59,382 [main] INFO utilities.Log - Test executeTestCases Started !
+2017-09-14 19:24:59,382 [main] INFO utilities.Log - Total number of Row used return as 2
+2017-09-14 19:24:59,382 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 19:25:03,169 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 19:25:05,125 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 19:25:07,242 [main] INFO utilities.Log - SearchFormTitle exists on page !
+2017-09-14 19:25:07,242 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 19:25:10,289 [main] INFO utilities.Log - From exists on page !
+2017-09-14 19:25:10,327 [main] INFO utilities.Log - Departure exists on page !
+2017-09-14 19:25:10,374 [main] ERROR utilities.Log - To does not exist on page !
+2017-09-14 19:25:10,427 [main] INFO utilities.Log - Destination exists on page !
+2017-09-14 19:25:10,474 [main] INFO utilities.Log - DepartOn exists on page !
+2017-09-14 19:25:10,522 [main] ERROR utilities.Log - chkReturnOn does not exist on page !
+2017-09-14 19:25:10,558 [main] INFO utilities.Log - txtReturnOn exists on page !
+2017-09-14 19:25:10,590 [main] INFO utilities.Log - DateDepartOn exists on page !
+2017-09-14 19:25:10,627 [main] INFO utilities.Log - DateReturnOn exists on page !
+2017-09-14 19:25:10,674 [main] INFO utilities.Log - WhoWillBeTravelling exists on page !
+2017-09-14 19:25:10,706 [main] INFO utilities.Log - Travellers exists on page !
+2017-09-14 19:25:10,743 [main] ERROR utilities.Log - chkFlyingBlueMiles does not exist on page !
+2017-09-14 19:25:10,774 [main] INFO utilities.Log - txtShowBlueMiles exists on page !
+2017-09-14 19:25:11,249 [main] INFO utilities.Log - Clicked on Plan&Book successfully !
+2017-09-14 19:25:11,474 [main] INFO utilities.Log - Plan&Book exists on page !
+2017-09-14 19:25:11,581 [main] INFO utilities.Log - BookFlightLink exists on page !
+2017-09-14 19:25:11,691 [main] INFO utilities.Log - BookHotelLink exists on page !
+2017-09-14 19:25:11,916 [main] INFO utilities.Log - RentCarLink exists on page !
+2017-09-14 19:25:11,966 [main] INFO utilities.Log - ViewOffers exists on page !
+2017-09-14 19:25:12,025 [main] INFO utilities.Log - BookCityTrip exists on page !
+2017-09-14 19:25:12,074 [main] INFO utilities.Log - BookTransfer exists on page !
+2017-09-14 19:25:12,116 [main] INFO utilities.Log - BookParkingSlot exists on page !
+2017-09-14 19:25:12,153 [main] INFO utilities.Log - BookBusinessTrip exists on page !
+2017-09-14 19:25:12,199 [main] INFO utilities.Log - BookFlyingBlueMiles exists on page !
+2017-09-14 19:25:12,249 [main] INFO utilities.Log - ViewDestinations exists on page !
+2017-09-14 19:25:12,286 [main] INFO utilities.Log - AdvanceSerach exists on page !
+2017-09-14 19:25:12,556 [main] INFO utilities.Log - Clicked on ManageBooking successfully !
+2017-09-14 19:25:12,598 [main] INFO utilities.Log - ManageBooking exists on page !
+2017-09-14 19:25:12,652 [main] INFO utilities.Log - OnlineCheckIn exists on page !
+2017-09-14 19:25:12,708 [main] INFO utilities.Log - ViewyourBooking exists on page !
+2017-09-14 19:25:12,984 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 19:25:13,034 [main] INFO utilities.Log - Service exists on page !
+2017-09-14 19:25:13,083 [main] INFO utilities.Log - Service&Information exists on page !
+2017-09-14 19:25:13,141 [main] INFO utilities.Log - CustomerService exists on page !
+2017-09-14 19:25:13,175 [main] INFO utilities.Log - FAQs exists on page !
+2017-09-14 19:25:13,411 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 19:25:13,462 [main] INFO utilities.Log - Facebook exists on page !
+2017-09-14 19:25:13,498 [main] INFO utilities.Log - Twitter exists on page !
+2017-09-14 19:25:13,533 [main] INFO utilities.Log - Instagram exists on page !
+2017-09-14 19:25:13,570 [main] INFO utilities.Log - Whatsapp exists on page !
+2017-09-14 19:25:13,612 [main] INFO utilities.Log - YouTube exists on page !
+2017-09-14 19:25:13,647 [main] INFO utilities.Log - GooglePlus exists on page !
+2017-09-14 19:25:13,684 [main] ERROR utilities.Log - HomeIcon does not exist on page !
+2017-09-14 19:25:13,685 [main] INFO utilities.Log - Total number of Row used return as 4
+2017-09-14 19:25:16,599 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 19:25:18,989 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 19:25:21,260 [main] INFO utilities.Log - Value : Amsterdam (Schiphol), Netherlands entered successfully in : Departure
+2017-09-14 19:25:21,466 [main] INFO utilities.Log - Value : Alicante, Spain entered successfully in : Destination
+2017-09-14 19:25:23,762 [main] INFO utilities.Log - Value : 21 Sep 2017 entered successfully in : DateDepartOn
+2017-09-14 19:25:24,249 [main] INFO utilities.Log - Value : 29 Sep 2017 entered successfully in : DateReturnOn
+2017-09-14 19:25:24,796 [main] INFO utilities.Log - Clicked on Travellers successfully !
+2017-09-14 19:25:30,192 [main] INFO utilities.Log - Clicked on Submit successfully !
+2017-09-14 19:25:30,193 [main] INFO utilities.Log - Test executeTestCases Succeeded !
+2017-09-14 19:25:30,305 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 19:28:02,764 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 19:28:02,764 [main] INFO utilities.Log - Test executeTestCases Started !
+2017-09-14 19:28:02,764 [main] INFO utilities.Log - Total number of Row used return as 2
+2017-09-14 19:28:02,781 [main] INFO utilities.Log - Total number of Row used return as 6
+2017-09-14 19:28:06,290 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 19:28:08,055 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 19:28:10,156 [main] INFO utilities.Log - SearchFormTitle exists on page !
+2017-09-14 19:28:10,156 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 19:28:13,197 [main] INFO utilities.Log - From exists on page !
+2017-09-14 19:28:13,244 [main] INFO utilities.Log - Departure exists on page !
+2017-09-14 19:28:13,294 [main] ERROR utilities.Log - To does not exist on page !
+2017-09-14 19:28:13,344 [main] INFO utilities.Log - Destination exists on page !
+2017-09-14 19:28:13,375 [main] INFO utilities.Log - DepartOn exists on page !
+2017-09-14 19:28:13,429 [main] ERROR utilities.Log - chkReturnOn does not exist on page !
+2017-09-14 19:28:13,460 [main] INFO utilities.Log - txtReturnOn exists on page !
+2017-09-14 19:28:13,513 [main] INFO utilities.Log - DateDepartOn exists on page !
+2017-09-14 19:28:13,545 [main] INFO utilities.Log - DateReturnOn exists on page !
+2017-09-14 19:28:13,576 [main] INFO utilities.Log - WhoWillBeTravelling exists on page !
+2017-09-14 19:28:13,629 [main] INFO utilities.Log - Travellers exists on page !
+2017-09-14 19:28:13,660 [main] ERROR utilities.Log - chkFlyingBlueMiles does not exist on page !
+2017-09-14 19:28:13,697 [main] INFO utilities.Log - txtShowBlueMiles exists on page !
+2017-09-14 19:28:14,080 [main] INFO utilities.Log - Clicked on Plan&Book successfully !
+2017-09-14 19:28:14,390 [main] INFO utilities.Log - Plan&Book exists on page !
+2017-09-14 19:28:14,491 [main] INFO utilities.Log - BookFlightLink exists on page !
+2017-09-14 19:28:14,576 [main] INFO utilities.Log - BookHotelLink exists on page !
+2017-09-14 19:28:14,817 [main] INFO utilities.Log - RentCarLink exists on page !
+2017-09-14 19:28:14,873 [main] INFO utilities.Log - ViewOffers exists on page !
+2017-09-14 19:28:14,932 [main] INFO utilities.Log - BookCityTrip exists on page !
+2017-09-14 19:28:14,980 [main] INFO utilities.Log - BookTransfer exists on page !
+2017-09-14 19:28:15,019 [main] INFO utilities.Log - BookParkingSlot exists on page !
+2017-09-14 19:28:15,057 [main] INFO utilities.Log - BookBusinessTrip exists on page !
+2017-09-14 19:28:15,094 [main] INFO utilities.Log - BookFlyingBlueMiles exists on page !
+2017-09-14 19:28:15,137 [main] INFO utilities.Log - ViewDestinations exists on page !
+2017-09-14 19:28:15,172 [main] INFO utilities.Log - AdvanceSerach exists on page !
+2017-09-14 19:28:15,440 [main] INFO utilities.Log - Clicked on ManageBooking successfully !
+2017-09-14 19:28:15,481 [main] INFO utilities.Log - ManageBooking exists on page !
+2017-09-14 19:28:15,538 [main] INFO utilities.Log - OnlineCheckIn exists on page !
+2017-09-14 19:28:15,585 [main] INFO utilities.Log - ViewyourBooking exists on page !
+2017-09-14 19:28:15,856 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 19:28:15,906 [main] INFO utilities.Log - Service exists on page !
+2017-09-14 19:28:15,948 [main] INFO utilities.Log - Service&Information exists on page !
+2017-09-14 19:28:16,004 [main] INFO utilities.Log - CustomerService exists on page !
+2017-09-14 19:28:16,038 [main] INFO utilities.Log - FAQs exists on page !
+2017-09-14 19:28:16,275 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 19:28:16,325 [main] INFO utilities.Log - Facebook exists on page !
+2017-09-14 19:28:16,361 [main] INFO utilities.Log - Twitter exists on page !
+2017-09-14 19:28:16,395 [main] INFO utilities.Log - Instagram exists on page !
+2017-09-14 19:28:16,430 [main] INFO utilities.Log - Whatsapp exists on page !
+2017-09-14 19:28:16,475 [main] INFO utilities.Log - YouTube exists on page !
+2017-09-14 19:28:16,511 [main] INFO utilities.Log - GooglePlus exists on page !
+2017-09-14 19:28:16,544 [main] ERROR utilities.Log - HomeIcon does not exist on page !
+2017-09-14 19:28:17,196 [main] INFO utilities.Log - Browser closed successfully !
+2017-09-14 19:28:17,197 [main] INFO utilities.Log - Total number of Row used return as 6
+2017-09-14 19:28:20,052 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 19:28:21,936 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 19:28:24,186 [main] INFO utilities.Log - Value : Amsterdam (Schiphol), Netherlands entered successfully in : Departure
+2017-09-14 19:28:24,371 [main] INFO utilities.Log - Value : Alicante, Spain entered successfully in : Destination
+2017-09-14 19:28:26,672 [main] INFO utilities.Log - Value : 21 Sep 2017 entered successfully in : DateDepartOn
+2017-09-14 19:28:27,208 [main] INFO utilities.Log - Value : 29 Sep 2017 entered successfully in : DateReturnOn
+2017-09-14 19:28:27,842 [main] INFO utilities.Log - Clicked on Travellers successfully !
+2017-09-14 19:28:30,388 [main] INFO utilities.Log - Clicked on Submit successfully !
+2017-09-14 19:28:31,047 [main] INFO utilities.Log - Browser closed successfully !
+2017-09-14 19:28:31,047 [main] INFO utilities.Log - Test executeTestCases Succeeded !
+2017-09-14 19:28:31,147 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 20:27:03,521 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 20:27:03,539 [main] INFO utilities.Log - Total number of Row used return as 2
+2017-09-14 20:27:03,554 [main] INFO utilities.Log - Total number of Row used return as 6
+2017-09-14 20:27:07,104 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 20:27:09,405 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 20:27:11,507 [main] INFO utilities.Log - SearchFormTitle exists on page !
+2017-09-14 20:27:11,510 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 20:27:14,636 [main] INFO utilities.Log - From exists on page !
+2017-09-14 20:27:14,684 [main] INFO utilities.Log - Departure exists on page !
+2017-09-14 20:27:14,729 [main] ERROR utilities.Log - To does not exist on page !
+2017-09-14 20:27:14,769 [main] INFO utilities.Log - Destination exists on page !
+2017-09-14 20:27:14,801 [main] INFO utilities.Log - DepartOn exists on page !
+2017-09-14 20:27:14,849 [main] ERROR utilities.Log - chkReturnOn does not exist on page !
+2017-09-14 20:27:14,880 [main] INFO utilities.Log - txtReturnOn exists on page !
+2017-09-14 20:27:14,911 [main] INFO utilities.Log - DateDepartOn exists on page !
+2017-09-14 20:27:14,953 [main] INFO utilities.Log - DateReturnOn exists on page !
+2017-09-14 20:27:14,977 [main] INFO utilities.Log - WhoWillBeTravelling exists on page !
+2017-09-14 20:27:15,026 [main] INFO utilities.Log - Travellers exists on page !
+2017-09-14 20:27:15,049 [main] ERROR utilities.Log - chkFlyingBlueMiles does not exist on page !
+2017-09-14 20:27:15,080 [main] INFO utilities.Log - txtShowBlueMiles exists on page !
+2017-09-14 20:27:15,465 [main] INFO utilities.Log - Clicked on Plan&Book successfully !
+2017-09-14 20:27:15,550 [main] INFO utilities.Log - Plan&Book exists on page !
+2017-09-14 20:27:15,613 [main] INFO utilities.Log - BookFlightLink exists on page !
+2017-09-14 20:27:15,813 [main] INFO utilities.Log - BookHotelLink exists on page !
+2017-09-14 20:27:15,850 [main] INFO utilities.Log - RentCarLink exists on page !
+2017-09-14 20:27:15,881 [main] INFO utilities.Log - ViewOffers exists on page !
+2017-09-14 20:27:15,912 [main] INFO utilities.Log - BookCityTrip exists on page !
+2017-09-14 20:27:15,965 [main] INFO utilities.Log - BookTransfer exists on page !
+2017-09-14 20:27:15,997 [main] INFO utilities.Log - BookParkingSlot exists on page !
+2017-09-14 20:27:16,034 [main] INFO utilities.Log - BookBusinessTrip exists on page !
+2017-09-14 20:27:16,097 [main] INFO utilities.Log - BookFlyingBlueMiles exists on page !
+2017-09-14 20:27:16,182 [main] INFO utilities.Log - ViewDestinations exists on page !
+2017-09-14 20:27:16,267 [main] INFO utilities.Log - AdvanceSerach exists on page !
+2017-09-14 20:27:16,567 [main] INFO utilities.Log - Clicked on ManageBooking successfully !
+2017-09-14 20:27:16,614 [main] INFO utilities.Log - ManageBooking exists on page !
+2017-09-14 20:27:16,714 [main] INFO utilities.Log - OnlineCheckIn exists on page !
+2017-09-14 20:27:16,814 [main] INFO utilities.Log - ViewyourBooking exists on page !
+2017-09-14 20:27:17,099 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 20:27:17,136 [main] INFO utilities.Log - Service exists on page !
+2017-09-14 20:27:17,199 [main] INFO utilities.Log - Service&Information exists on page !
+2017-09-14 20:27:17,252 [main] INFO utilities.Log - CustomerService exists on page !
+2017-09-14 20:27:17,283 [main] INFO utilities.Log - FAQs exists on page !
+2017-09-14 20:27:17,515 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 20:27:17,584 [main] INFO utilities.Log - Facebook exists on page !
+2017-09-14 20:27:17,637 [main] INFO utilities.Log - Twitter exists on page !
+2017-09-14 20:27:17,683 [main] INFO utilities.Log - Instagram exists on page !
+2017-09-14 20:27:17,715 [main] INFO utilities.Log - Whatsapp exists on page !
+2017-09-14 20:27:17,752 [main] INFO utilities.Log - YouTube exists on page !
+2017-09-14 20:27:17,784 [main] INFO utilities.Log - GooglePlus exists on page !
+2017-09-14 20:27:17,815 [main] ERROR utilities.Log - HomeIcon does not exist on page !
+2017-09-14 20:27:18,485 [main] INFO utilities.Log - Browser closed successfully !
+2017-09-14 20:27:18,485 [main] INFO utilities.Log - Total number of Row used return as 6
+2017-09-14 20:27:21,488 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 20:27:29,147 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 20:27:31,448 [main] INFO utilities.Log - Value : Amsterdam (Schiphol), Netherlands entered successfully in : Departure
+2017-09-14 20:27:31,638 [main] INFO utilities.Log - Value : Alicante, Spain entered successfully in : Destination
+2017-09-14 20:27:33,915 [main] INFO utilities.Log - Value : 21 Sep 2017 entered successfully in : DateDepartOn
+2017-09-14 20:27:34,304 [main] INFO utilities.Log - Value : 29 Sep 2017 entered successfully in : DateReturnOn
+2017-09-14 20:27:34,818 [main] INFO utilities.Log - Clicked on Travellers successfully !
+2017-09-14 20:27:40,680 [main] INFO utilities.Log - Clicked on Submit successfully !
+2017-09-14 20:27:41,393 [main] INFO utilities.Log - Browser closed successfully !
+2017-09-14 20:27:41,476 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 20:46:34,071 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 20:46:34,087 [main] INFO utilities.Log - Total number of Row used return as 6
+2017-09-14 20:46:34,102 [main] INFO utilities.Log - Total number of Row used return as 10
+2017-09-14 20:46:37,792 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 20:46:41,019 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 20:46:43,144 [main] INFO utilities.Log - SearchFormTitle exists on page !
+2017-09-14 20:46:43,153 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 20:46:46,214 [main] INFO utilities.Log - From exists on page !
+2017-09-14 20:46:46,268 [main] INFO utilities.Log - Departure exists on page !
+2017-09-14 20:46:46,299 [main] ERROR utilities.Log - To does not exist on page !
+2017-09-14 20:46:46,346 [main] INFO utilities.Log - Destination exists on page !
+2017-09-14 20:46:46,383 [main] INFO utilities.Log - DepartOn exists on page !
+2017-09-14 20:46:46,430 [main] INFO utilities.Log - txtReturnOn exists on page !
+2017-09-14 20:46:46,467 [main] INFO utilities.Log - DateDepartOn exists on page !
+2017-09-14 20:46:46,498 [main] INFO utilities.Log - DateReturnOn exists on page !
+2017-09-14 20:46:46,545 [main] INFO utilities.Log - WhoWillBeTravelling exists on page !
+2017-09-14 20:46:46,583 [main] INFO utilities.Log - Travellers exists on page !
+2017-09-14 20:46:46,614 [main] INFO utilities.Log - txtShowBlueMiles exists on page !
+2017-09-14 20:46:46,614 [main] INFO utilities.Log - Total number of Row used return as 10
+2017-09-14 20:46:47,247 [main] INFO utilities.Log - Clicked on Plan&Book successfully !
+2017-09-14 20:46:47,384 [main] INFO utilities.Log - Plan&Book exists on page !
+2017-09-14 20:46:47,447 [main] INFO utilities.Log - BookFlightLink exists on page !
+2017-09-14 20:46:47,564 [main] INFO utilities.Log - BookHotelLink exists on page !
+2017-09-14 20:46:47,747 [main] INFO utilities.Log - RentCarLink exists on page !
+2017-09-14 20:46:47,866 [main] INFO utilities.Log - ViewOffers exists on page !
+2017-09-14 20:46:47,901 [main] INFO utilities.Log - BookCityTrip exists on page !
+2017-09-14 20:46:47,966 [main] INFO utilities.Log - BookTransfer exists on page !
+2017-09-14 20:46:48,017 [main] INFO utilities.Log - BookParkingSlot exists on page !
+2017-09-14 20:46:48,048 [main] INFO utilities.Log - BookBusinessTrip exists on page !
+2017-09-14 20:46:48,070 [main] INFO utilities.Log - BookFlyingBlueMiles exists on page !
+2017-09-14 20:46:48,117 [main] INFO utilities.Log - ViewDestinations exists on page !
+2017-09-14 20:46:48,148 [main] INFO utilities.Log - AdvanceSerach exists on page !
+2017-09-14 20:46:48,148 [main] INFO utilities.Log - Total number of Row used return as 10
+2017-09-14 20:46:48,417 [main] INFO utilities.Log - Clicked on ManageBooking successfully !
+2017-09-14 20:46:48,486 [main] INFO utilities.Log - ManageBooking exists on page !
+2017-09-14 20:46:48,533 [main] INFO utilities.Log - OnlineCheckIn exists on page !
+2017-09-14 20:46:48,571 [main] INFO utilities.Log - ViewyourBooking exists on page !
+2017-09-14 20:46:48,571 [main] INFO utilities.Log - Total number of Row used return as 10
+2017-09-14 20:46:48,870 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 20:46:48,934 [main] INFO utilities.Log - Service exists on page !
+2017-09-14 20:46:49,003 [main] INFO utilities.Log - Service&Information exists on page !
+2017-09-14 20:46:49,034 [main] INFO utilities.Log - CustomerService exists on page !
+2017-09-14 20:46:49,071 [main] INFO utilities.Log - FAQs exists on page !
+2017-09-14 20:46:49,303 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 20:46:49,303 [main] INFO utilities.Log - Total number of Row used return as 10
+2017-09-14 20:46:49,387 [main] INFO utilities.Log - Facebook exists on page !
+2017-09-14 20:46:49,434 [main] INFO utilities.Log - Twitter exists on page !
+2017-09-14 20:46:49,472 [main] INFO utilities.Log - Instagram exists on page !
+2017-09-14 20:46:49,519 [main] INFO utilities.Log - Whatsapp exists on page !
+2017-09-14 20:46:49,550 [main] INFO utilities.Log - YouTube exists on page !
+2017-09-14 20:46:49,603 [main] INFO utilities.Log - GooglePlus exists on page !
+2017-09-14 20:46:49,634 [main] ERROR utilities.Log - HomeIcon does not exist on page !
+2017-09-14 20:46:50,288 [main] INFO utilities.Log - Browser closed successfully !
+2017-09-14 20:46:50,288 [main] INFO utilities.Log - Total number of Row used return as 10
+2017-09-14 20:46:53,243 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 20:46:55,062 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 20:46:57,317 [main] INFO utilities.Log - Value : Amsterdam (Schiphol), Netherlands entered successfully in : Departure
+2017-09-14 20:46:57,502 [main] INFO utilities.Log - Value : Agadir, Morocco entered successfully in : Destination
+2017-09-14 20:46:59,775 [main] INFO utilities.Log - Value : 21 Sep 2017 entered successfully in : DateDepartOn
+2017-09-14 20:47:00,413 [main] INFO utilities.Log - Value : 29 Sep 2017 entered successfully in : DateReturnOn
+2017-09-14 20:47:00,923 [main] INFO utilities.Log - Clicked on Travellers successfully !
+2017-09-14 20:47:04,348 [main] INFO utilities.Log - Clicked on Submit successfully !
+2017-09-14 20:47:05,064 [main] INFO utilities.Log - Browser closed successfully !
+2017-09-14 20:47:05,148 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 20:49:57,083 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 20:49:57,105 [main] INFO utilities.Log - Total number of Row used return as 6
+2017-09-14 20:49:57,105 [main] INFO utilities.Log - Total number of Row used return as 10
+2017-09-14 20:50:00,866 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 20:50:02,886 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 20:50:04,973 [main] INFO utilities.Log - SearchFormTitle exists on page !
+2017-09-14 20:50:04,979 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 20:50:08,081 [main] INFO utilities.Log - From exists on page !
+2017-09-14 20:50:08,120 [main] INFO utilities.Log - Departure exists on page !
+2017-09-14 20:50:08,151 [main] ERROR utilities.Log - To does not exist on page !
+2017-09-14 20:50:08,197 [main] INFO utilities.Log - Destination exists on page !
+2017-09-14 20:50:08,244 [main] INFO utilities.Log - DepartOn exists on page !
+2017-09-14 20:50:08,282 [main] INFO utilities.Log - txtReturnOn exists on page !
+2017-09-14 20:50:08,313 [main] INFO utilities.Log - DateDepartOn exists on page !
+2017-09-14 20:50:08,360 [main] INFO utilities.Log - DateReturnOn exists on page !
+2017-09-14 20:50:08,381 [main] INFO utilities.Log - WhoWillBeTravelling exists on page !
+2017-09-14 20:50:08,428 [main] INFO utilities.Log - Travellers exists on page !
+2017-09-14 20:50:08,460 [main] INFO utilities.Log - txtShowBlueMiles exists on page !
+2017-09-14 20:50:08,460 [main] INFO utilities.Log - Total number of Row used return as 10
+2017-09-14 20:50:08,860 [main] INFO utilities.Log - Clicked on Plan&Book successfully !
+2017-09-14 20:50:09,160 [main] INFO utilities.Log - Plan&Book exists on page !
+2017-09-14 20:50:09,213 [main] INFO utilities.Log - BookFlightLink exists on page !
+2017-09-14 20:50:09,298 [main] INFO utilities.Log - BookHotelLink exists on page !
+2017-09-14 20:50:09,445 [main] INFO utilities.Log - RentCarLink exists on page !
+2017-09-14 20:50:09,601 [main] INFO utilities.Log - ViewOffers exists on page !
+2017-09-14 20:50:09,685 [main] INFO utilities.Log - BookCityTrip exists on page !
+2017-09-14 20:50:09,732 [main] INFO utilities.Log - BookTransfer exists on page !
+2017-09-14 20:50:09,785 [main] INFO utilities.Log - BookParkingSlot exists on page !
+2017-09-14 20:50:09,832 [main] INFO utilities.Log - BookBusinessTrip exists on page !
+2017-09-14 20:50:09,885 [main] INFO utilities.Log - BookFlyingBlueMiles exists on page !
+2017-09-14 20:50:09,917 [main] INFO utilities.Log - ViewDestinations exists on page !
+2017-09-14 20:50:09,948 [main] INFO utilities.Log - AdvanceSerach exists on page !
+2017-09-14 20:50:09,948 [main] INFO utilities.Log - Total number of Row used return as 10
+2017-09-14 20:50:10,240 [main] INFO utilities.Log - Clicked on ManageBooking successfully !
+2017-09-14 20:50:10,320 [main] INFO utilities.Log - ManageBooking exists on page !
+2017-09-14 20:50:10,383 [main] INFO utilities.Log - OnlineCheckIn exists on page !
+2017-09-14 20:50:10,401 [main] INFO utilities.Log - ViewyourBooking exists on page !
+2017-09-14 20:50:10,401 [main] INFO utilities.Log - Total number of Row used return as 10
+2017-09-14 20:50:10,701 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 20:50:10,748 [main] INFO utilities.Log - Service exists on page !
+2017-09-14 20:50:10,806 [main] INFO utilities.Log - Service&Information exists on page !
+2017-09-14 20:50:10,846 [main] INFO utilities.Log - CustomerService exists on page !
+2017-09-14 20:50:10,882 [main] INFO utilities.Log - FAQs exists on page !
+2017-09-14 20:50:11,118 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 20:50:11,121 [main] INFO utilities.Log - Total number of Row used return as 10
+2017-09-14 20:50:11,181 [main] INFO utilities.Log - Facebook exists on page !
+2017-09-14 20:50:11,212 [main] INFO utilities.Log - Twitter exists on page !
+2017-09-14 20:50:11,246 [main] INFO utilities.Log - Instagram exists on page !
+2017-09-14 20:50:11,278 [main] INFO utilities.Log - Whatsapp exists on page !
+2017-09-14 20:50:11,310 [main] INFO utilities.Log - YouTube exists on page !
+2017-09-14 20:50:11,330 [main] INFO utilities.Log - GooglePlus exists on page !
+2017-09-14 20:50:11,381 [main] ERROR utilities.Log - HomeIcon does not exist on page !
+2017-09-14 20:50:12,018 [main] INFO utilities.Log - Browser closed successfully !
+2017-09-14 20:50:12,018 [main] INFO utilities.Log - Total number of Row used return as 10
+2017-09-14 20:50:14,923 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 20:50:17,827 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 20:50:20,098 [main] INFO utilities.Log - Value : Amsterdam (Schiphol), Netherlands entered successfully in : Departure
+2017-09-14 20:50:20,277 [main] INFO utilities.Log - Value : Alicante, Spain entered successfully in : Destination
+2017-09-14 20:50:20,599 [main] INFO utilities.Log - Value : 21 Sep 2017 entered successfully in : DateDepartOn
+2017-09-14 20:50:21,120 [main] INFO utilities.Log - Value : 29 Sep 2017 entered successfully in : DateReturnOn
+2017-09-14 20:50:21,604 [main] INFO utilities.Log - Clicked on Travellers successfully !
+2017-09-14 20:50:25,058 [main] INFO utilities.Log - Clicked on Submit successfully !
+2017-09-14 20:50:25,806 [main] INFO utilities.Log - Browser closed successfully !
+2017-09-14 20:50:25,890 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 20:51:16,272 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 20:51:16,282 [main] INFO utilities.Log - Total number of Row used return as 6
+2017-09-14 20:51:16,286 [main] INFO utilities.Log - Total number of Row used return as 10
+2017-09-14 20:51:19,785 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 20:51:21,602 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 20:51:23,719 [main] INFO utilities.Log - SearchFormTitle exists on page !
+2017-09-14 20:51:23,729 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 20:51:26,823 [main] INFO utilities.Log - From exists on page !
+2017-09-14 20:51:26,876 [main] INFO utilities.Log - Departure exists on page !
+2017-09-14 20:51:26,923 [main] ERROR utilities.Log - To does not exist on page !
+2017-09-14 20:51:26,972 [main] INFO utilities.Log - Destination exists on page !
+2017-09-14 20:51:26,992 [main] INFO utilities.Log - DepartOn exists on page !
+2017-09-14 20:51:27,039 [main] INFO utilities.Log - txtReturnOn exists on page !
+2017-09-14 20:51:27,077 [main] INFO utilities.Log - DateDepartOn exists on page !
+2017-09-14 20:51:27,108 [main] INFO utilities.Log - DateReturnOn exists on page !
+2017-09-14 20:51:27,139 [main] INFO utilities.Log - WhoWillBeTravelling exists on page !
+2017-09-14 20:51:27,177 [main] INFO utilities.Log - Travellers exists on page !
+2017-09-14 20:51:27,208 [main] INFO utilities.Log - txtShowBlueMiles exists on page !
+2017-09-14 20:51:27,208 [main] INFO utilities.Log - Total number of Row used return as 10
+2017-09-14 20:51:27,592 [main] INFO utilities.Log - Clicked on Plan&Book successfully !
+2017-09-14 20:51:27,623 [main] INFO utilities.Log - Plan&Book exists on page !
+2017-09-14 20:51:27,674 [main] INFO utilities.Log - BookFlightLink exists on page !
+2017-09-14 20:51:27,708 [main] INFO utilities.Log - BookHotelLink exists on page !
+2017-09-14 20:51:27,755 [main] INFO utilities.Log - RentCarLink exists on page !
+2017-09-14 20:51:27,792 [main] INFO utilities.Log - ViewOffers exists on page !
+2017-09-14 20:51:27,892 [main] INFO utilities.Log - BookCityTrip exists on page !
+2017-09-14 20:51:27,929 [main] INFO utilities.Log - BookTransfer exists on page !
+2017-09-14 20:51:27,965 [main] INFO utilities.Log - BookParkingSlot exists on page !
+2017-09-14 20:51:28,008 [main] INFO utilities.Log - BookBusinessTrip exists on page !
+2017-09-14 20:51:28,276 [main] INFO utilities.Log - BookFlyingBlueMiles exists on page !
+2017-09-14 20:51:28,308 [main] INFO utilities.Log - ViewDestinations exists on page !
+2017-09-14 20:51:28,377 [main] INFO utilities.Log - AdvanceSerach exists on page !
+2017-09-14 20:51:28,392 [main] INFO utilities.Log - Total number of Row used return as 10
+2017-09-14 20:51:28,693 [main] INFO utilities.Log - Clicked on ManageBooking successfully !
+2017-09-14 20:51:28,724 [main] INFO utilities.Log - ManageBooking exists on page !
+2017-09-14 20:51:28,808 [main] INFO utilities.Log - OnlineCheckIn exists on page !
+2017-09-14 20:51:28,977 [main] INFO utilities.Log - ViewyourBooking exists on page !
+2017-09-14 20:51:28,991 [main] INFO utilities.Log - Total number of Row used return as 10
+2017-09-14 20:51:29,275 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 20:51:29,341 [main] INFO utilities.Log - Service exists on page !
+2017-09-14 20:51:29,457 [main] INFO utilities.Log - Service&Information exists on page !
+2017-09-14 20:51:29,510 [main] INFO utilities.Log - CustomerService exists on page !
+2017-09-14 20:51:29,541 [main] INFO utilities.Log - FAQs exists on page !
+2017-09-14 20:51:29,779 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 20:51:29,779 [main] INFO utilities.Log - Total number of Row used return as 10
+2017-09-14 20:51:29,879 [main] INFO utilities.Log - Facebook exists on page !
+2017-09-14 20:51:29,926 [main] INFO utilities.Log - Twitter exists on page !
+2017-09-14 20:51:29,957 [main] INFO utilities.Log - Instagram exists on page !
+2017-09-14 20:51:29,979 [main] INFO utilities.Log - Whatsapp exists on page !
+2017-09-14 20:51:30,009 [main] INFO utilities.Log - YouTube exists on page !
+2017-09-14 20:51:30,040 [main] INFO utilities.Log - GooglePlus exists on page !
+2017-09-14 20:51:30,079 [main] ERROR utilities.Log - HomeIcon does not exist on page !
+2017-09-14 20:51:30,728 [main] INFO utilities.Log - Browser closed successfully !
+2017-09-14 20:51:30,728 [main] INFO utilities.Log - Total number of Row used return as 10
+2017-09-14 20:51:33,683 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 20:51:35,763 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 20:51:38,003 [main] INFO utilities.Log - Value : Amsterdam (Schiphol), Netherlands entered successfully in : Departure
+2017-09-14 20:51:38,122 [main] INFO utilities.Log - Value : Munich, Germany entered successfully in : Destination
+2017-09-14 20:51:38,402 [main] INFO utilities.Log - Value : 21 Sep 2017 entered successfully in : DateDepartOn
+2017-09-14 20:51:38,891 [main] INFO utilities.Log - Value : 29 Sep 2017 entered successfully in : DateReturnOn
+2017-09-14 20:51:39,372 [main] INFO utilities.Log - Clicked on Travellers successfully !
+2017-09-14 20:54:21,679 [main] INFO utilities.Log - Clicked on Submit successfully !
+2017-09-14 20:54:22,842 [main] INFO utilities.Log - Browser closed successfully !
+2017-09-14 20:54:22,926 [main] INFO utilities.Log - Excel file closed successfully !
+2017-09-14 23:17:18,255 [main] INFO utilities.Log - Excel Sheet Opened Successfully !
+2017-09-14 23:17:18,270 [main] INFO utilities.Log - Test executeTestCases Started !
+2017-09-14 23:17:18,270 [main] INFO utilities.Log - Total number of Row used return as 6
+2017-09-14 23:17:18,270 [main] INFO utilities.Log - Total number of Row used return as 10
+2017-09-14 23:17:22,094 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 23:17:24,071 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 23:17:26,207 [main] INFO utilities.Log - SearchFormTitle exists on page !
+2017-09-14 23:17:26,208 [main] INFO utilities.Log - Transavia Home page opened successfully !
+2017-09-14 23:17:29,379 [main] INFO utilities.Log - From exists on page !
+2017-09-14 23:17:29,458 [main] INFO utilities.Log - Departure exists on page !
+2017-09-14 23:17:29,520 [main] ERROR utilities.Log - To does not exist on page !
+2017-09-14 23:17:29,567 [main] INFO utilities.Log - Destination exists on page !
+2017-09-14 23:17:29,610 [main] INFO utilities.Log - DepartOn exists on page !
+2017-09-14 23:17:29,659 [main] INFO utilities.Log - txtReturnOn exists on page !
+2017-09-14 23:17:29,697 [main] INFO utilities.Log - DateDepartOn exists on page !
+2017-09-14 23:17:29,735 [main] INFO utilities.Log - DateReturnOn exists on page !
+2017-09-14 23:17:29,769 [main] INFO utilities.Log - WhoWillBeTravelling exists on page !
+2017-09-14 23:17:29,805 [main] INFO utilities.Log - Travellers exists on page !
+2017-09-14 23:17:29,843 [main] INFO utilities.Log - txtShowBlueMiles exists on page !
+2017-09-14 23:17:29,846 [main] INFO utilities.Log - Total number of Row used return as 10
+2017-09-14 23:17:30,407 [main] INFO utilities.Log - Clicked on Plan&Book successfully !
+2017-09-14 23:17:30,588 [main] INFO utilities.Log - Plan&Book exists on page !
+2017-09-14 23:17:30,786 [main] INFO utilities.Log - BookFlightLink exists on page !
+2017-09-14 23:17:30,976 [main] INFO utilities.Log - BookHotelLink exists on page !
+2017-09-14 23:17:31,041 [main] INFO utilities.Log - RentCarLink exists on page !
+2017-09-14 23:17:31,129 [main] INFO utilities.Log - ViewOffers exists on page !
+2017-09-14 23:17:31,173 [main] INFO utilities.Log - BookCityTrip exists on page !
+2017-09-14 23:17:31,223 [main] INFO utilities.Log - BookTransfer exists on page !
+2017-09-14 23:17:31,291 [main] INFO utilities.Log - BookParkingSlot exists on page !
+2017-09-14 23:17:31,350 [main] INFO utilities.Log - BookBusinessTrip exists on page !
+2017-09-14 23:17:31,386 [main] INFO utilities.Log - BookFlyingBlueMiles exists on page !
+2017-09-14 23:17:31,424 [main] INFO utilities.Log - ViewDestinations exists on page !
+2017-09-14 23:17:31,479 [main] INFO utilities.Log - AdvanceSerach exists on page !
+2017-09-14 23:17:31,480 [main] INFO utilities.Log - Total number of Row used return as 10
+2017-09-14 23:17:31,763 [main] INFO utilities.Log - Clicked on ManageBooking successfully !
+2017-09-14 23:17:31,859 [main] INFO utilities.Log - ManageBooking exists on page !
+2017-09-14 23:17:31,905 [main] INFO utilities.Log - OnlineCheckIn exists on page !
+2017-09-14 23:17:31,940 [main] INFO utilities.Log - ViewyourBooking exists on page !
+2017-09-14 23:17:31,941 [main] INFO utilities.Log - Total number of Row used return as 10
+2017-09-14 23:17:32,212 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 23:17:32,265 [main] INFO utilities.Log - Service exists on page !
+2017-09-14 23:17:32,313 [main] INFO utilities.Log - Service&Information exists on page !
+2017-09-14 23:17:32,374 [main] INFO utilities.Log - CustomerService exists on page !
+2017-09-14 23:17:32,407 [main] INFO utilities.Log - FAQs exists on page !
+2017-09-14 23:17:32,647 [main] INFO utilities.Log - Clicked on Service successfully !
+2017-09-14 23:17:32,653 [main] INFO utilities.Log - Total number of Row used return as 10
+2017-09-14 23:17:32,748 [main] INFO utilities.Log - Facebook exists on page !
+2017-09-14 23:17:32,784 [main] INFO utilities.Log - Twitter exists on page !
+2017-09-14 23:17:32,819 [main] INFO utilities.Log - Instagram exists on page !
+2017-09-14 23:17:32,856 [main] INFO utilities.Log - Whatsapp exists on page !
+2017-09-14 23:17:32,889 [main] INFO utilities.Log - YouTube exists on page !
+2017-09-14 23:17:32,927 [main] INFO utilities.Log - GooglePlus exists on page !
+2017-09-14 23:17:33,666 [main] INFO utilities.Log - Browser closed successfully !
+2017-09-14 23:17:33,667 [main] INFO utilities.Log - Total number of Row used return as 10
+2017-09-14 23:17:36,537 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-09-14 23:17:38,371 [main] INFO utilities.Log - Web application https://www.transavia.com/en-NL/home/ launched successfully
+2017-09-14 23:17:40,706 [main] INFO utilities.Log - Value : Amsterdam (Schiphol), Netherlands entered successfully in : Departure
+2017-09-14 23:17:40,937 [main] INFO utilities.Log - Value : Munich, Germany entered successfully in : Destination
+2017-09-14 23:17:41,137 [main] INFO utilities.Log - Value : 21 Sep 2017 entered successfully in : DateDepartOn
+2017-09-14 23:17:41,635 [main] INFO utilities.Log - Value : 29 Sep 2017 entered successfully in : DateReturnOn
+2017-09-14 23:17:42,123 [main] INFO utilities.Log - Clicked on Travellers successfully !
+2017-09-14 23:17:46,945 [main] INFO utilities.Log - Clicked on Submit successfully !
+2017-09-14 23:17:48,081 [main] INFO utilities.Log - Browser closed successfully !
+2017-09-14 23:17:48,081 [main] INFO utilities.Log - Test executeTestCases Succeeded !
+2017-09-14 23:17:48,181 [main] INFO utilities.Log - Excel file closed successfully !
